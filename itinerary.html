@@ -69,7 +69,7 @@ function refreshYahooLink(a){
  const t=Object.fromEntries(parts.map(x=>[x.type,x.value]));
  const params=new URLSearchParams({from:a.dataset.from,to:a.dataset.to,y:t.year,m:t.month,d:t.day,hh:t.hour,m1:t.minute[0],m2:t.minute[1],type:'1',ticket:'ic',ws:'3',s:'0',al:'0',shin:'0',ex:'0',hb:'0',lb:'0',sr:'1'});
  JSON.parse(a.dataset.via||'[]').slice(0,1).forEach((v,i)=>params.set('via'+String(i+1).padStart(2,'0'),v));
- a.href='https://transit.yahoo.co.jp/search/result?'+params.toString();
+ a.href='https://transit.yahoo.co.jp/search/result/?'+params.toString();
 }
 const yahooLinks=[...document.querySelectorAll('.yahoo-route')];
 yahooLinks.forEach(a=>{refreshYahooLink(a);['click','auxclick','contextmenu','pointerdown','focus'].forEach(evt=>a.addEventListener(evt,()=>refreshYahooLink(a)))});
