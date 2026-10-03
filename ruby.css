@@ -1,0 +1,19 @@
+.ruby-toolbar{display:flex;align-items:center;flex-wrap:wrap;gap:12px;margin:22px 0 0;font:12px/1.6 system-ui;color:#68705f;letter-spacing:0}
+.ruby-toolbar>span{font-size:11px;letter-spacing:.08em}
+.ruby-toolbar>div{display:flex;border:1px solid #cccdbd;border-radius:5px;overflow:hidden;background:#f7f5ed}
+.ruby-toolbar button{border:0;border-right:1px solid #cccdbd;border-radius:0;background:transparent;color:#5b6554;font:12px/1.6 system-ui;padding:8px 13px;cursor:pointer;box-shadow:none;transform:none}
+.ruby-toolbar button:last-child{border-right:0}
+.ruby-toolbar button[aria-pressed=true]{background:#334433;color:#fff}
+.ruby-toolbar button:focus-visible{outline:2px solid #967748;outline-offset:-3px}
+ruby[data-ruby-level]{ruby-position:over;ruby-align:center}
+ruby[data-ruby-level]>rt{font-family:system-ui;font-size:.54em;font-weight:400;line-height:1.2;color:#7a7a65;letter-spacing:0}
+ :is(h1,h2,h3) ruby[data-ruby-level]>rt{font-size:clamp(9px,.5em,12px)}
+.primary>.ruby-inline-label,.cover-start>.ruby-inline-label,.cover-study>.ruby-inline-label,.library-list h2 a>.ruby-inline-label{display:inline;font:inherit;color:inherit;letter-spacing:inherit;margin:0;min-width:0}
+html:not([data-ruby-mode=all]) ruby[data-ruby-level=all]>rt,html[data-ruby-mode=off] ruby[data-ruby-level]>rt{display:none}
+.source-original ruby>rt{font-size:.5em}
+.kanbun-reading{padding-left:22px;border-left:2px solid #c7c8b6}
+.kanbun-reading strong:first-child{display:block;font:600 11px/1.8 system-ui;letter-spacing:.1em;color:#786b4c;margin-bottom:7px}
+.koya .day-links{display:block}
+.koya .day-links .ruby-toolbar{justify-content:center;margin-top:18px}
+@media(max-width:620px){.ruby-toolbar{gap:8px}.ruby-toolbar button{padding:8px 10px}.reading-body ruby>rt{font-size:.55em}}
+@media print{.ruby-toolbar{display:none}}

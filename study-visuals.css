@@ -1,0 +1,37 @@
+.reading-body .artifact-figure{margin:34px 0 42px;padding:0;border:0;background:none}
+.artifact-frame{display:block;background:#fff;padding:22px;border:1px solid #e1ddd1;text-decoration:none!important}
+.artifact-frame img{display:block;width:100%;height:auto;max-height:570px;object-fit:contain;margin:0 auto}
+.artifact-figure figcaption{font:12px/1.9 system-ui;color:#707666;margin-top:13px}
+.artifact-figure figcaption strong{display:block;font:500 16px/1.8 'Hiragino Mincho ProN','Yu Mincho',serif;color:#3e493a;margin-bottom:3px}
+.artifact-credit{font-size:10px;display:block;margin-top:6px}
+.artifact-pair{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start}
+.artifact-pair .artifact-frame{padding:12px}
+.artifact-pair .artifact-frame img{max-height:520px}
+.artifact-pair .artifact-figure{margin-top:24px;margin-bottom:28px}
+.reading-body .look-closer{padding:24px 28px;margin:30px 0;background:#eeede3;border:1px solid #d7d5c6;border-left:3px solid #827148;font-size:15px}
+.reading-body .look-closer>strong:first-child{display:block;font:600 11px/1.8 system-ui;letter-spacing:.12em;color:#827148;margin-bottom:14px}
+.reading-body .look-closer p:last-child{margin-bottom:0}
+.prong-study{display:grid;grid-template-columns:150px 1fr;align-items:center;gap:25px;margin:26px 0 32px;padding:22px;background:#f0eee4}
+.prong-end{position:relative;width:130px;height:130px;background:#fff;border:1px solid #d4ceb9;border-radius:50%;margin:auto}
+.prong-end i{display:block;position:absolute;width:16px;height:16px;background:#aa8747;border:1px solid #7c683e;border-radius:50%;transform:translate(-50%,-50%)}
+.prong-end i:nth-child(1){top:50%;left:50%}.prong-end i:nth-child(2){top:23%;left:50%}.prong-end i:nth-child(3){top:50%;left:77%}.prong-end i:nth-child(4){top:77%;left:50%}.prong-end i:nth-child(5){top:50%;left:23%}
+.prong-study p{font-size:13px;line-height:2;margin:0}
+.prong-study strong{display:block;font-size:16px;margin-bottom:7px}
+.prong-study small{display:block;color:#7a7c70;font:10px/1.8 system-ui;margin-top:7px}
+.practice-emblem{width:280px;max-width:100%;position:relative;margin:26px auto;background:#fff;border-radius:50%;aspect-ratio:1}
+.practice-emblem>img{width:100%;height:100%;object-fit:contain;display:block}
+.practice-emblem>img+img{position:absolute;width:45%;height:45%;left:27.5%;top:27.5%}
+.sutra-intro{margin-bottom:46px}
+.sutra-sheet{padding:28px 30px 24px;background:#ede9db;border:1px solid #d2cbb5;margin:24px 0 30px}
+.sutra-title{font-size:21px;line-height:1.9;letter-spacing:.06em;text-align:center;margin:0 0 24px}
+.sutra-lines p{margin:0 0 13px;line-height:2.4;letter-spacing:.045em;font-size:17px}
+.sutra-sheet .sutra-source{font:10px/1.8 system-ui;color:#7f7968;margin:25px 0 0}
+.sutra-translation{border-left:2px solid #b6b89e;padding-left:24px}
+.sutra-translation h3{font-size:18px!important;margin-top:0!important}
+.sutra-translation p{font-size:15px;line-height:2.15}
+.sutra-bridge{font-size:17px;padding:26px 0;border-top:1px solid #c6c5b5;border-bottom:1px solid #c6c5b5;margin-top:35px}
+.sutra-bridge p:last-child{margin-bottom:0}
+@media(max-width:620px){.artifact-frame{padding:12px}.artifact-pair{gap:12px}.artifact-pair .artifact-frame{padding:5px}.artifact-figure figcaption{font-size:11px}.artifact-figure figcaption strong{font-size:14px}.prong-study{grid-template-columns:1fr;gap:18px;padding:20px}.reading-body .look-closer{padding:20px}.sutra-sheet{padding:22px 18px}.sutra-title{font-size:19px}.sutra-lines p{font-size:16px;line-height:2.6;letter-spacing:0}.sutra-translation{padding-left:18px}}
+@media print{.artifact-figure,.prong-study,.sutra-sheet{break-inside:avoid}.artifact-frame img{max-height:250px}.artifact-credit{font-size:8pt}}
+.gorinto-study{display:grid;grid-template-columns:180px 1fr;gap:18px 34px;max-width:500px;margin:38px auto 44px}.gorinto-shapes{display:grid;grid-template-rows:63px 44px 61px 75px 78px;align-items:end;justify-items:center;gap:7px}.gorinto-shapes span{display:block;background:#647164;box-shadow:inset -8px -6px 0 #0000000b}.gorinto-empty{width:59px;height:61px;border-radius:50% 50% 46% 46%;clip-path:polygon(50% 0,70% 27%,92% 49%,100% 66%,94% 87%,76% 100%,24% 100%,6% 87%,0 66%,8% 49%,30% 27%)}.gorinto-wind{width:86px;height:40px;border-radius:90px 90px 6px 6px;transform:rotate(180deg)}.gorinto-fire{width:166px;height:61px;clip-path:polygon(50% 0,100% 91%,100% 100%,0 100%,0 91%)}.gorinto-water{width:92px;height:75px;border-radius:50%}.gorinto-earth{width:126px;height:78px}.gorinto-labels{display:grid;grid-template-rows:63px 44px 61px 75px 78px;align-items:center;gap:7px}.gorinto-labels p{margin:0!important;line-height:1.7!important}.gorinto-labels strong{font:500 21px/1.6 'Yu Mincho',serif}.gorinto-labels span{display:block;font:12px/1.8 system-ui;color:#747a6b}.gorinto-study figcaption{grid-column:1/-1;font:11px/1.9 system-ui;color:#777b6e;margin-top:8px}
+@media(max-width:620px){.gorinto-study{grid-template-columns:170px 1fr;gap:18px 15px}.gorinto-labels span{font-size:11px}}

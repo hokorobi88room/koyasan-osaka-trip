@@ -1,0 +1,4711 @@
+[
+  {
+    "key": "free-01",
+    "kind": "free",
+    "num": "01",
+    "name": "梅田スカイビル 空中庭園展望台",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-kita",
+    "official": "https://www.skybldg.co.jp/observatory/",
+    "fields": {
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+      "営業時間": "9:30～22:30(最終入場22:00)",
+      "定休日": "年中無休",
+      "注意事項": "・入場は15:00まで。 ※15:00以降はパス提示で入場料10%OFF",
+      "参考料金": "通常料金 :\n                  大人(中学生以上)2,000円、小人(4歳～小学生以下)500円"
+    },
+    "price": "大人(中学生以上)2,000円、小人(4歳～小学生以下)500円",
+    "benefit": "",
+    "holiday": "年中無休",
+    "hours": "9:30～22:30(最終入場22:00)",
+    "access": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+    "notes": "・入場は15:00まで。 ※15:00以降はパス提示で入場料10%OFF",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_1.jpg",
+    "image": "assets/free-01.jpg",
+    "coords": [
+      34.7052993,
+      135.490172
+    ],
+    "locations": [
+      {
+        "name": "梅田スカイビル 空中庭園展望台",
+        "coords": [
+          34.7052993,
+          135.490172
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "パスでの入場は15:00まで。以降は入場料10%割引。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "展望・観覧車",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-02",
+    "kind": "free",
+    "num": "02",
+    "name": "梅田スカイビル 絹谷幸二 天空美術館",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-kita",
+    "official": "https://www.kinutani-tenku.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+      "営業時間": "10:00～18:00 ⾦・⼟・祝前⽇は20:00まで (⼊館は閉館の30分前まで)",
+      "定休日": "⽕曜⽇(祝⽇の場合は開館し翌平⽇が休館)",
+      "注意事項": "",
+      "参考料金": "通常料金 : ⼀般 1,300円、中・⾼・⼤学⽣ 800円"
+    },
+    "price": "⼀般 1,300円、中・⾼・⼤学⽣ 800円",
+    "benefit": "",
+    "holiday": "⽕曜⽇(祝⽇の場合は開館し翌平⽇が休館)",
+    "hours": "10:00～18:00 ⾦・⼟・祝前⽇は20:00まで (⼊館は閉館の30分前まで)",
+    "access": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_2.jpg",
+    "image": "assets/free-02.jpg",
+    "coords": [
+      34.705319,
+      135.4896224
+    ],
+    "locations": [
+      {
+        "name": "梅田スカイビル　絹谷幸二 天空美術館",
+        "coords": [
+          34.705319,
+          135.4896224
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {
+      "6": "火曜休館"
+    },
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-03",
+    "kind": "free",
+    "num": "03",
+    "name": "HEP FIVE観覧車",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-kita",
+    "official": "https://www.hepfive.jp/ferriswheel/",
+    "fields": {
+      "アクセス": "Osaka Metro 梅田駅(M16) 東梅田駅(T20)、阪急・阪神 大阪梅田駅",
+      "営業時間": "11:00～23:00(最終搭乗22:45)",
+      "定休日": "2025年10月14日～2026年4月21日 不定休",
+      "注意事項": "・詳細につきましては、HEPファイブHPをご覧下さい。",
+      "参考料金": "通常料金 : 1,000円(5歳以下無料)"
+    },
+    "price": "1,000円(5歳以下無料)",
+    "benefit": "",
+    "holiday": "2025年10月14日～2026年4月21日 不定休",
+    "hours": "11:00～23:00(最終搭乗22:45)",
+    "access": "Osaka Metro 梅田駅(M16) 東梅田駅(T20)、阪急・阪神 大阪梅田駅",
+    "notes": "・詳細につきましては、HEPファイブHPをご覧下さい。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_3.jpg",
+    "image": "assets/free-03.jpg",
+    "coords": [
+      34.70381529999999,
+      135.499969
+    ],
+    "locations": [
+      {
+        "name": "HEP FIVE観覧車",
+        "coords": [
+          34.70381529999999,
+          135.499969
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "展望・観覧車",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "free-04",
+    "kind": "free",
+    "num": "04",
+    "name": "大阪市立住まいのミュージアム 大阪くらしの今昔館",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-kita",
+    "official": "https://www.osaka-angenet.jp/konjyakukan/",
+    "fields": {
+      "アクセス": "Osaka Metro 天神橋筋六丁目駅(T18,K11)、阪急 天神橋筋六丁目駅",
+      "営業時間": "10:00～17:00(最終入場16:30)",
+      "定休日": "臨時休館　2026年9月1日～2027年1月5日",
+      "注意事項": "・着物体験は別料金になります。 ・企画展は、企画展準備のため閉室している場合がございます。 詳しくはHPをご確認ください。",
+      "参考料金": "通常料金 ： 常設展600円　企画展500円"
+    },
+    "price": "常設展600円　企画展500円",
+    "benefit": "",
+    "holiday": "臨時休館　2026年9月1日～2027年1月5日",
+    "hours": "10:00～17:00(最終入場16:30)",
+    "access": "Osaka Metro 天神橋筋六丁目駅(T18,K11)、阪急 天神橋筋六丁目駅",
+    "notes": "・着物体験は別料金になります。 ・企画展は、企画展準備のため閉室している場合がございます。 詳しくはHPをご確認ください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_4.jpg",
+    "image": "assets/free-04.jpg",
+    "coords": [
+      34.71034059999999,
+      135.5113276
+    ],
+    "locations": [
+      {
+        "name": "大阪市立住まいのミュージアム 大阪くらしの今昔館",
+        "coords": [
+          34.71034059999999,
+          135.5113276
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {
+      "6": "臨時休館期間中",
+      "7": "臨時休館期間中"
+    },
+    "warning": "2026/9/1〜2027/1/5 臨時休館。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-05",
+    "kind": "free",
+    "num": "05",
+    "name": "国立国際美術館",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-kita",
+    "official": "https://www.nmao.go.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 肥後橋駅(Y12)、京阪 渡辺橋駅",
+      "営業時間": "10:00～17:00、金曜は20:00まで (入場は閉館の30分前まで)",
+      "定休日": "月曜日（祝日の場合は翌日）、年末年始、展示替期間",
+      "注意事項": "・入場はコレクション展のみ。 ・特別展の入場料金は別料金になります。 ・詳細は施設HPをご確認ください。 国立国際美術館 (nmao.go.jp)",
+      "参考料金": "通常料金 : 【コレクション展】430円"
+    },
+    "price": "【コレクション展】430円",
+    "benefit": "",
+    "holiday": "月曜日（祝日の場合は翌日）、年末年始、展示替期間",
+    "hours": "10:00～17:00、金曜は20:00まで (入場は閉館の30分前まで)",
+    "access": "Osaka Metro 肥後橋駅(Y12)、京阪 渡辺橋駅",
+    "notes": "・入場はコレクション展のみ。 ・特別展の入場料金は別料金になります。 ・詳細は施設HPをご確認ください。 国立国際美術館 (nmao.go.jp)",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_5.jpg",
+    "image": "assets/free-05.jpg",
+    "coords": [
+      34.6917819,
+      135.491984
+    ],
+    "locations": [
+      {
+        "name": "国立国際美術館",
+        "coords": [
+          34.6917819,
+          135.491984
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "対象はコレクション展のみ。特別展は別料金。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": [
+      {
+        "title": "施設公式・2026年コレクション展会期",
+        "url": "https://www.nmao.go.jp/events/category/exhibition/"
+      }
+    ]
+  },
+  {
+    "key": "free-06",
+    "kind": "free",
+    "num": "06",
+    "name": "大阪企業家ミュージアム",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-kita",
+    "official": "https://www.kigyoka.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 堺筋本町駅(C17,K15)",
+      "営業時間": "10:00～17:00(最終入館16:30)",
+      "定休日": "日曜日、月曜日、祝休日(お盆・年末年始)",
+      "注意事項": "",
+      "参考料金": "通常料金 : 大人500円"
+    },
+    "price": "大人500円",
+    "benefit": "",
+    "holiday": "日曜日、月曜日、祝休日(お盆・年末年始)",
+    "hours": "10:00～17:00(最終入館16:30)",
+    "access": "Osaka Metro 堺筋本町駅(C17,K15)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_6.jpg",
+    "image": "assets/free-06.jpg",
+    "coords": [
+      34.68403599999999,
+      135.5092116
+    ],
+    "locations": [
+      {
+        "name": "大阪企業家ミュージアム",
+        "coords": [
+          34.68403599999999,
+          135.5092116
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-07",
+    "kind": "free",
+    "num": "07",
+    "name": "とんぼりリバークルーズ",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-namba",
+    "official": "http://www.ipponmatsu.co.jp/cruise/tombori.html",
+    "fields": {
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20)・南海 なんば駅、阪神・近鉄\n                  大阪難波駅",
+      "営業時間": "11:00発～21:00発まで毎時00分・30分に出航",
+      "定休日": "7月13、24、25日",
+      "注意事項": "・始発と最終が変更となる場合があります。 ・間に運休便が生じる場合があります。 ・ご乗船当日のみ、現地受付にて時間指定で乗船券と引換が必要です。 ・始発1時間前開場の乗船券売り場で便指定の乗船券に引き換えてください。 ・乗船券に記載の時間のみ乗船が可能です。 ・夕方以降の便は早めに完売するため、日中の引き換えをお勧めします。 ・満席の場合は乗船不可です。 ・増便する場合があります。 ・電話予約不可です。 ・天候や潮位、河川工事、河川イベント、船舶の状況等により、予告なく運休する場合があります。",
+      "参考料金": "通常料金 : おとな2,000円、学生1,000円、子ども500円"
+    },
+    "price": "おとな2,000円、学生1,000円、子ども500円",
+    "benefit": "",
+    "holiday": "7月13、24、25日",
+    "hours": "11:00発～21:00発まで毎時00分・30分に出航",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20)・南海 なんば駅、阪神・近鉄\n                  大阪難波駅",
+    "notes": "・始発と最終が変更となる場合があります。 ・間に運休便が生じる場合があります。 ・ご乗船当日のみ、現地受付にて時間指定で乗船券と引換が必要です。 ・始発1時間前開場の乗船券売り場で便指定の乗船券に引き換えてください。 ・乗船券に記載の時間のみ乗船が可能です。 ・夕方以降の便は早めに完売するため、日中の引き換えをお勧めします。 ・満席の場合は乗船不可です。 ・増便する場合があります。 ・電話予約不可です。 ・天候や潮位、河川工事、河川イベント、船舶の状況等により、予告なく運休する場合があります。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_7.jpg",
+    "image": "assets/free-07.jpg",
+    "coords": [
+      34.669129,
+      135.5026725
+    ],
+    "locations": [
+      {
+        "name": "とんぼりリバークルーズ",
+        "coords": [
+          34.669129,
+          135.5026725
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "当日、便指定券に引換え。夜の便は日中の確保がおすすめ。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "クルーズ",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-08",
+    "kind": "free",
+    "num": "08",
+    "name": "WONDER CRUISE",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-namba",
+    "official": "https://wondercruise.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 日本橋駅(S17,K17)、近鉄 近鉄日本橋駅",
+      "営業時間": "16:10～21:30",
+      "定休日": "7月13日、24日、25日、年末年始",
+      "注意事項": "・Web予約優先です。 ・ご予約で満席の場合はキャンセル待ちいただくことがございますので、事前予約をお薦めいたします。 ・予約は こちら から。詳しい予約方法は施設にお問い合わせください。 ・施設へご来場の際に、チケットの引換が必要です。引換は受付窓口で行います。 ・チケットに記載の時間のみ入場が可能です。 ・雨天決行。 ・Wonderチケット売り場（ Dotonbori Riverside Grill\n                  Wonder） ・乗船前にHPを要確認 ・フォトタイムあり / 英語対応可 / ドリンク持ち込み可 /\n                  雨天時屋根あり / WCあり ・天候や潮位、河川状況等により、予告なく運休する場合があります。詳しくは各施設にお問い合わせください。 ・各施設が利用できなかった場合でも、払い戻し等はいたしません。",
+      "参考料金": "通常料金 : 大人2,000円"
+    },
+    "price": "大人2,000円",
+    "benefit": "",
+    "holiday": "7月13日、24日、25日、年末年始",
+    "hours": "16:10～21:30",
+    "access": "Osaka Metro 日本橋駅(S17,K17)、近鉄 近鉄日本橋駅",
+    "notes": "・Web予約優先です。 ・ご予約で満席の場合はキャンセル待ちいただくことがございますので、事前予約をお薦めいたします。 ・予約は こちら から。詳しい予約方法は施設にお問い合わせください。 ・施設へご来場の際に、チケットの引換が必要です。引換は受付窓口で行います。 ・チケットに記載の時間のみ入場が可能です。 ・雨天決行。 ・Wonderチケット売り場（ Dotonbori Riverside Grill\n                  Wonder） ・乗船前にHPを要確認 ・フォトタイムあり / 英語対応可 / ドリンク持ち込み可 /\n                  雨天時屋根あり / WCあり ・天候や潮位、河川状況等により、予告なく運休する場合があります。詳しくは各施設にお問い合わせください。 ・各施設が利用できなかった場合でも、払い戻し等はいたしません。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_8.jpg",
+    "image": "assets/free-08.jpg",
+    "coords": [
+      34.6689889,
+      135.5056853
+    ],
+    "locations": [
+      {
+        "name": "WONDER CRUISE",
+        "coords": [
+          34.6689889,
+          135.5056853
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "Web予約優先。現地チケット引換えが必要。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "クルーズ",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-09",
+    "kind": "free",
+    "num": "09",
+    "name": "上方浮世絵館",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-namba",
+    "official": "http://kamigata.jp/kmgt/",
+    "fields": {
+      "アクセス": "Osaka Metroなんば駅(Y15,S16,M20)・南海 なんば駅、阪神・近鉄\n                  大阪難波駅",
+      "営業時間": "11:00～18:00(最終入館17:30)",
+      "定休日": "月曜日(祝日の場合、翌火曜日)",
+      "注意事項": "・浮世絵摺り体験は別料金",
+      "参考料金": "通常料金 : 一般700円"
+    },
+    "price": "一般700円",
+    "benefit": "",
+    "holiday": "月曜日(祝日の場合、翌火曜日)",
+    "hours": "11:00～18:00(最終入館17:30)",
+    "access": "Osaka Metroなんば駅(Y15,S16,M20)・南海 なんば駅、阪神・近鉄\n                  大阪難波駅",
+    "notes": "・浮世絵摺り体験は別料金",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_9.jpg",
+    "image": "assets/free-09.jpg",
+    "coords": [
+      34.6679395,
+      135.5022103
+    ],
+    "locations": [
+      {
+        "name": "上方浮世絵館",
+        "coords": [
+          34.6679395,
+          135.5022103
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-10",
+    "kind": "free",
+    "num": "10",
+    "name": "通天閣 展望台",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tennoji",
+    "official": "https://tsutenkaku.co.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 恵美須町駅(K18)、動物園前駅（M22、K19）、南海\n                  新今宮駅",
+      "営業時間": "9:00～21:45（最終受付21:15）",
+      "定休日": "年中無休",
+      "注意事項": "・ご入場には、現地にて入場時間予約券との引換が必要です。 ・混雑が予想されますので、時間に余裕をもってお越しください。 ・詳しくは「 通天閣公式サイト　展望台チケット案内 」をご確認ください。",
+      "参考料金": "通常料金 : 1,500円"
+    },
+    "price": "1,500円",
+    "benefit": "",
+    "holiday": "年中無休",
+    "hours": "9:00～21:45（最終受付21:15）",
+    "access": "Osaka Metro 恵美須町駅(K18)、動物園前駅（M22、K19）、南海\n                  新今宮駅",
+    "notes": "・ご入場には、現地にて入場時間予約券との引換が必要です。 ・混雑が予想されますので、時間に余裕をもってお越しください。 ・詳しくは「 通天閣公式サイト　展望台チケット案内 」をご確認ください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_10.jpg",
+    "image": "assets/free-10.jpg",
+    "coords": [
+      34.6524992,
+      135.5063058
+    ],
+    "locations": [
+      {
+        "name": "通天閣 一般展望台",
+        "coords": [
+          34.6524992,
+          135.5063058
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "現地で入場時間予約券への引換えが必要。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "展望・観覧車",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-11",
+    "kind": "free",
+    "num": "11",
+    "name": "通天閣 TOWER SLIDER",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tennoji",
+    "official": "https://tsutenkaku.co.jp/tour/tower-slider.html",
+    "fields": {
+      "アクセス": "Osaka Metro 恵美須町駅(K18)、動物園前駅（M22、K19）、南海\n                  新今宮駅",
+      "営業時間": "【6月】10:00～20:00(最終受付19:30) 【7月～3月】9:30～20:30（最終受付20:00）",
+      "定休日": "年中無休",
+      "注意事項": "・天候により閉鎖する場合がございます。 ・滑走袋およびヘルメットの装着義務と身長・体重・年齢で利用制限があります。 （身長:120㎝以上、体重:120㎏未満、年齢:7歳～65歳） ・ご入場には、現地にて入場時間予約券との引換が必要です。 ・混雑が予想されますので、時間に余裕をもってお越しください。 ・詳しくは「 通天閣公式サイト\n                    タワースライダーチケット案内 」をご確認ください。",
+      "参考料金": "通常料金 : 1,100円"
+    },
+    "price": "1,100円",
+    "benefit": "",
+    "holiday": "年中無休",
+    "hours": "【6月】10:00～20:00(最終受付19:30) 【7月～3月】9:30～20:30（最終受付20:00）",
+    "access": "Osaka Metro 恵美須町駅(K18)、動物園前駅（M22、K19）、南海\n                  新今宮駅",
+    "notes": "・天候により閉鎖する場合がございます。 ・滑走袋およびヘルメットの装着義務と身長・体重・年齢で利用制限があります。 （身長:120㎝以上、体重:120㎏未満、年齢:7歳～65歳） ・ご入場には、現地にて入場時間予約券との引換が必要です。 ・混雑が予想されますので、時間に余裕をもってお越しください。 ・詳しくは「 通天閣公式サイト\n                    タワースライダーチケット案内 」をご確認ください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_11.jpg",
+    "image": "assets/free-11.jpg",
+    "coords": [
+      34.652455,
+      135.5064993
+    ],
+    "locations": [
+      {
+        "name": "通天閣 TOWER SLIDER",
+        "coords": [
+          34.652455,
+          135.5064993
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "身長120cm以上・体重120kg未満・7〜65歳。現地時間予約券。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "体験・遊び",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-12",
+    "kind": "free",
+    "num": "12",
+    "name": "通天閣 Dive&Walk(ダイブ&ウォーク)",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tennoji",
+    "official": "https://www.tsutenkaku.co.jp/tour/dive-walk.html",
+    "fields": {
+      "アクセス": "Osaka Metro 恵美須町駅(K18)、動物園前駅（M22、K19）、南海\n                  新今宮駅",
+      "営業時間": "【8月】9:10～20:00（最終受付19:15） 【9月～3月】10:10～20:00（最終受付19:15）",
+      "定休日": "年中無休",
+      "注意事項": "・天候により閉鎖する場合がございます。 ・ハーネスおよびヘルメットの装着義務と身長・体重・年齢で利用制限があります。 （身長:130cm以上、体重:120㎏未満、年齢:9歳～65歳） ・スカート、ワンピースでのご利用はできません。 ・サンダル、ヒールでのご利用はできません。 ・詳しくは「 通天閣公式サイト\n                    DIVE&WALKチケット案内 」をご確認ください。",
+      "参考料金": "通常料金 : 3,000円"
+    },
+    "price": "3,000円",
+    "benefit": "",
+    "holiday": "年中無休",
+    "hours": "【8月】9:10～20:00（最終受付19:15） 【9月～3月】10:10～20:00（最終受付19:15）",
+    "access": "Osaka Metro 恵美須町駅(K18)、動物園前駅（M22、K19）、南海\n                  新今宮駅",
+    "notes": "・天候により閉鎖する場合がございます。 ・ハーネスおよびヘルメットの装着義務と身長・体重・年齢で利用制限があります。 （身長:130cm以上、体重:120㎏未満、年齢:9歳～65歳） ・スカート、ワンピースでのご利用はできません。 ・サンダル、ヒールでのご利用はできません。 ・詳しくは「 通天閣公式サイト\n                    DIVE&WALKチケット案内 」をご確認ください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_12.jpg",
+    "image": "assets/free-12.jpg",
+    "coords": [
+      34.6526523,
+      135.5062515
+    ],
+    "locations": [
+      {
+        "name": "通天閣 Dive ＆Walk",
+        "coords": [
+          34.6526523,
+          135.5062515
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "身長130cm以上・体重120kg未満・9〜65歳。スカート・サンダル等不可。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "体験・遊び",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-13",
+    "kind": "free",
+    "num": "13",
+    "name": "天王寺動物園",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tennoji",
+    "official": "https://www.tennojizoo.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 動物園前駅(M22,K19) 天王寺駅(M23,T27)\n                  恵美須町駅(K18)、近鉄 大阪阿部野橋駅、南海 新今宮駅",
+      "営業時間": "9:30～17:00(最終入園16:00) ※5月、9月の土曜、日曜、祝日は18：00まで営業(最終入園17:00)",
+      "定休日": "毎週月曜日 祝日の場合は翌日、年末年始（12月29日～1月1日）",
+      "注意事項": "",
+      "参考料金": "通常料金 : 大人800円 小中学生200円（大阪市内在住または在学の小中学生は無料）"
+    },
+    "price": "大人800円 小中学生200円（大阪市内在住または在学の小中学生は無料）",
+    "benefit": "",
+    "holiday": "毎週月曜日 祝日の場合は翌日、年末年始（12月29日～1月1日）",
+    "hours": "9:30～17:00(最終入園16:00) ※5月、9月の土曜、日曜、祝日は18：00まで営業(最終入園17:00)",
+    "access": "Osaka Metro 動物園前駅(M22,K19) 天王寺駅(M23,T27)\n                  恵美須町駅(K18)、近鉄 大阪阿部野橋駅、南海 新今宮駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_13.jpg",
+    "image": "assets/free-13.jpg",
+    "coords": [
+      34.6510957,
+      135.5084344
+    ],
+    "locations": [
+      {
+        "name": "天王寺動物園",
+        "coords": [
+          34.6510957,
+          135.5084344
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "体験・遊び",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-14",
+    "kind": "free",
+    "num": "14",
+    "name": "慶沢園",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tennoji",
+    "official": "https://osaka-info.jp/spot/keitakuen-garden/",
+    "fields": {
+      "アクセス": "Osaka Metro 動物園前駅(M22,K19) 天王寺駅(M23,T27)\n                  恵美須町駅(K18）、近鉄 大阪阿部野橋駅、南海 新今宮駅",
+      "営業時間": "9:30～17:00(5月・9月の土日祝は9:30～18:00)",
+      "定休日": "月曜日(祝日の場合はその翌日)及び12月29日～1月1日",
+      "注意事項": "",
+      "参考料金": "通常料金 : 300円"
+    },
+    "price": "300円",
+    "benefit": "",
+    "holiday": "月曜日(祝日の場合はその翌日)及び12月29日～1月1日",
+    "hours": "9:30～17:00(5月・9月の土日祝は9:30～18:00)",
+    "access": "Osaka Metro 動物園前駅(M22,K19) 天王寺駅(M23,T27)\n                  恵美須町駅(K18）、近鉄 大阪阿部野橋駅、南海 新今宮駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_14.jpg",
+    "image": "assets/free-14.jpg",
+    "coords": [
+      34.6496571,
+      135.5115834
+    ],
+    "locations": [
+      {
+        "name": "慶沢園",
+        "coords": [
+          34.6496571,
+          135.5115834
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "庭園・自然",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-15",
+    "kind": "free",
+    "num": "15",
+    "name": "新世界ZAZA",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tennoji",
+    "official": "http://www.vitalartbox.com/zaza/",
+    "fields": {
+      "アクセス": "Osaka Metro 恵美須町駅(K18)、動物園前駅(M22、K19)",
+      "営業時間": "【開催日】営業日、公演情報については、施設HPでご確認をお願いいたします。 【開演時間】11:30～ 12:30～ 13:30～ 14:30～ 15:30～(1回30分)",
+      "定休日": "不定休",
+      "注意事項": "・日本語のみ ・会場: ZAZA POCKETS ・最新の情報は施設のホームページ、SNSでご確認ください。 https://www.vitalartbox.com/zaza/",
+      "参考料金": "通常料金 : 1,000円"
+    },
+    "price": "1,000円",
+    "benefit": "",
+    "holiday": "不定休",
+    "hours": "【開催日】営業日、公演情報については、施設HPでご確認をお願いいたします。 【開演時間】11:30～ 12:30～ 13:30～ 14:30～ 15:30～(1回30分)",
+    "access": "Osaka Metro 恵美須町駅(K18)、動物園前駅(M22、K19)",
+    "notes": "・日本語のみ ・会場: ZAZA POCKETS ・最新の情報は施設のホームページ、SNSでご確認ください。 https://www.vitalartbox.com/zaza/",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_15.jpg",
+    "image": "assets/free-15.jpg",
+    "coords": [
+      34.6518376,
+      135.5069806
+    ],
+    "locations": [
+      {
+        "name": "新世界ZAZA　ZAZAお笑い寄席",
+        "coords": [
+          34.6518376,
+          135.5069806
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {
+      "6": "公式10月予定では休演"
+    },
+    "warning": "10/6は休演。10/7は公式10月予定で公演あり。対象はPOCKETSの30分お笑い寄席。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "公式10月予定で公演あり",
+    "extraSources": [
+      {
+        "url": "https://www.vitalartbox.com/zaza/performance/3880/",
+        "note": "2026/10/2確認。公式10月開催日・各回時刻。"
+      }
+    ]
+  },
+  {
+    "key": "free-16",
+    "kind": "free",
+    "num": "16",
+    "name": "四天王寺",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tennoji",
+    "official": "http://www.shitennoji.or.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 四天王寺前夕陽ケ丘駅(T26)",
+      "営業時間": "【4月～9月】 8:30～16:30 【10月～3月】 8:30～16:00",
+      "定休日": "なし（庭園は休園日あり） 庭園休園日 ・毎月1～10日（4、8，12、1月を除く） ・4月22日、1月12日～14日",
+      "注意事項": "",
+      "参考料金": "通常料金 : 800円(中心伽藍500円、庭園300円)"
+    },
+    "price": "800円(中心伽藍500円、庭園300円)",
+    "benefit": "",
+    "holiday": "なし（庭園は休園日あり） 庭園休園日 ・毎月1～10日（4、8，12、1月を除く） ・4月22日、1月12日～14日",
+    "hours": "【4月～9月】 8:30～16:30 【10月～3月】 8:30～16:00",
+    "access": "Osaka Metro 四天王寺前夕陽ケ丘駅(T26)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_16.jpg",
+    "image": "assets/free-16.jpg",
+    "coords": [
+      34.6544581,
+      135.5165239
+    ],
+    "locations": [
+      {
+        "name": "四天王寺",
+        "coords": [
+          34.6544581,
+          135.5165239
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "10/6・7は庭園休園。中心伽藍の候補として検討。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-17",
+    "kind": "free",
+    "num": "17",
+    "name": "大阪市立美術館",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tennoji",
+    "official": "https://www.osaka-art-museum.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 動物園前駅(M22,K19) 天王寺駅(M23,T27)\n                  恵美須町駅(K18）、近鉄 大阪阿部野橋駅、南海 新今宮駅",
+      "営業時間": "9:30～17:00（最終入館16:30）",
+      "定休日": "月曜日（祝の場合は翌平日）、年末年始、展示替期間",
+      "注意事項": "・入場は企画展示のみ。特別展は別料金。 ・4月13日～7月3日の間、企画展示は休室します。 ・企画展示は、展示替えのため休室している場合がございます。 詳しくはHPをご確認ください。",
+      "参考料金": "通常料金 : 企画展示　一般 500円　高大生 200円"
+    },
+    "price": "企画展示　一般 500円　高大生 200円",
+    "benefit": "",
+    "holiday": "月曜日（祝の場合は翌平日）、年末年始、展示替期間",
+    "hours": "9:30～17:00（最終入館16:30）",
+    "access": "Osaka Metro 動物園前駅(M22,K19) 天王寺駅(M23,T27)\n                  恵美須町駅(K18）、近鉄 大阪阿部野橋駅、南海 新今宮駅",
+    "notes": "・入場は企画展示のみ。特別展は別料金。 ・4月13日～7月3日の間、企画展示は休室します。 ・企画展示は、展示替えのため休室している場合がございます。 詳しくはHPをご確認ください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_17.jpg",
+    "image": "assets/free-17.jpg",
+    "coords": [
+      34.65011599999999,
+      135.5103522
+    ],
+    "locations": [
+      {
+        "name": "大阪市立美術館",
+        "coords": [
+          34.65011599999999,
+          135.5103522
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {
+      "6": "対象の企画展示は会期外",
+      "7": "対象の企画展示は会期外"
+    },
+    "warning": "企画展示の前会期は9/27終了、次会期は10/9開始。日程から対象外と判定。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": [
+      {
+        "title": "施設公式・企画展示の会期",
+        "url": "https://www.osaka-art-museum.jp/planned_exhibition"
+      }
+    ]
+  },
+  {
+    "key": "free-18",
+    "kind": "free",
+    "num": "18",
+    "name": "大阪城天守閣",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "https://www.osakacastle.net/",
+    "fields": {
+      "アクセス": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  大阪ビジネスパーク駅(N21) 天満橋駅(T22)、京阪 天満橋駅",
+      "営業時間": "9:00～18:00（最終入館17:30）",
+      "定休日": "12月28日～1月1日の年末年始",
+      "注意事項": "・自然災害などの影響により臨時休館となる場合があります。 ・季節により、営業時間を延長することがあります。 ・大阪城天守閣と大阪城豊臣石垣館にご入館頂けます。 ※同日のみ利用可能です。",
+      "参考料金": "通常料金 : 1,200円"
+    },
+    "price": "1,200円",
+    "benefit": "",
+    "holiday": "12月28日～1月1日の年末年始",
+    "hours": "9:00～18:00（最終入館17:30）",
+    "access": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  大阪ビジネスパーク駅(N21) 天満橋駅(T22)、京阪 天満橋駅",
+    "notes": "・自然災害などの影響により臨時休館となる場合があります。 ・季節により、営業時間を延長することがあります。 ・大阪城天守閣と大阪城豊臣石垣館にご入館頂けます。 ※同日のみ利用可能です。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_18.jpg",
+    "image": "assets/free-18.jpg",
+    "coords": [
+      34.6872962,
+      135.5258605
+    ],
+    "locations": [
+      {
+        "name": "大阪城天守閣",
+        "coords": [
+          34.6872962,
+          135.5258605
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "天守閣と豊臣石垣館は同日に利用。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-19",
+    "kind": "free",
+    "num": "19",
+    "name": "大阪城 西の丸庭園",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "https://www.osakacastlepark.jp/articles/detail.html?lang=ja&id=72",
+    "fields": {
+      "アクセス": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  天満橋駅(T22)、京阪 天満橋駅",
+      "営業時間": "【3月～10月】　9:00～17:00 【11月～2月】　9:00～16:30 （入園は閉園の30分前まで）",
+      "定休日": "月曜日（祝日の場合は翌平日）、年末年始",
+      "注意事項": "",
+      "参考料金": "通常料金 : 300円(桜観期 350円)"
+    },
+    "price": "300円(桜観期 350円)",
+    "benefit": "",
+    "holiday": "月曜日（祝日の場合は翌平日）、年末年始",
+    "hours": "【3月～10月】　9:00～17:00 【11月～2月】　9:00～16:30 （入園は閉園の30分前まで）",
+    "access": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  天満橋駅(T22)、京阪 天満橋駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_19.jpg",
+    "image": "assets/free-19.jpg",
+    "coords": [
+      34.6867809,
+      135.5234455
+    ],
+    "locations": [
+      {
+        "name": "大阪城 西の丸庭園",
+        "coords": [
+          34.6867809,
+          135.5234455
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "庭園・自然",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-20",
+    "kind": "free",
+    "num": "20",
+    "name": "重要文化財 大阪城の櫓YAGURA特別公開",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "https://www.osakacastlepark.jp/articles/detail.html?id=54",
+    "fields": {
+      "アクセス": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  天満橋駅(T22)、京阪 天満橋駅",
+      "営業時間": "10:00～16:30(最終入館16:00)",
+      "営業日": "2棟特別公開（多聞・千貫） 2026年3月14日～5月24日 ※土日祝限定公開 ※3月28日～4月12日、4月29日～5月6日は連日公開 1棟特別公開（乾） 2026年7月18日～8月16日 ※土日祝限定公開 2棟特別公開（多聞・千貫） 2026年9月5日～11月29日 ※土日祝限定公開 ※9月19日～27日は連日公開",
+      "注意事項": "・期間限定公開",
+      "参考料金": "通常料金　大人（高校生以上） ： 900円"
+    },
+    "price": "大人（高校生以上） ： 900円",
+    "benefit": "",
+    "holiday": "",
+    "hours": "10:00～16:30(最終入館16:00)",
+    "access": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  天満橋駅(T22)、京阪 天満橋駅",
+    "notes": "・期間限定公開",
+    "news": "",
+    "detailNotes": "2棟特別公開（多聞・千貫） 2026年3月14日～5月24日 ※土日祝限定公開 ※3月28日～4月12日、4月29日～5月6日は連日公開 1棟特別公開（乾） 2026年7月18日～8月16日 ※土日祝限定公開 2棟特別公開（多聞・千貫） 2026年9月5日～11月29日 ※土日祝限定公開 ※9月19日～27日は連日公開",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_20.jpg",
+    "image": "assets/free-20.jpg",
+    "coords": [
+      34.6856831,
+      135.5229161
+    ],
+    "locations": [
+      {
+        "name": "重要文化財 大阪城の櫓YAGURA特別公開",
+        "coords": [
+          34.6856831,
+          135.5229161
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {
+      "6": "土日祝限定公開",
+      "7": "土日祝限定公開"
+    },
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "free-21",
+    "kind": "free",
+    "num": "21",
+    "name": "海洋堂フィギュアミュージアムミライザ大阪城",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "https://www.ryuyukan.net/home",
+    "fields": {
+      "アクセス": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  大阪ビジネスパーク駅(N21) 天満橋駅(T22)、京阪 天満橋駅",
+      "営業時間": "9:30～17:30(最終入館17:00)",
+      "定休日": "不定休(休館はHPか公式SNSをご確認ください)",
+      "注意事項": "・入館記念特典は、館内にある専用のカプセルトイで入手できます。",
+      "参考料金": "通常料金 : 大人1,000円 小人500円(入館者プレゼント付き)"
+    },
+    "price": "大人1,000円 小人500円(入館者プレゼント付き)",
+    "benefit": "",
+    "holiday": "不定休(休館はHPか公式SNSをご確認ください)",
+    "hours": "9:30～17:30(最終入館17:00)",
+    "access": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  大阪ビジネスパーク駅(N21) 天満橋駅(T22)、京阪 天満橋駅",
+    "notes": "・入館記念特典は、館内にある専用のカプセルトイで入手できます。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_21.jpg",
+    "image": "assets/free-21.jpg",
+    "coords": [
+      34.6855553,
+      135.5265223
+    ],
+    "locations": [
+      {
+        "name": "海洋堂フィギュアミュージアム ミライザ大阪城",
+        "coords": [
+          34.6855553,
+          135.5265223
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "free-22",
+    "kind": "free",
+    "num": "22",
+    "name": "大阪城御座船",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "https://www.banpr.co.jp/%E5%A4%A7%E9%98%AA%E5%9F%8E%E5%BE%A1%E5%BA%A7%E8%88%B9/",
+    "fields": {
+      "アクセス": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  大阪ビジネスパーク駅(N21) 天満橋駅(T22)、京阪 天満橋駅",
+      "営業時間": "10:00～16:30(最終便発)",
+      "定休日": "年末年始(12月28日～1月3日)",
+      "注意事項": "・子ども(中学生以下)のみの利用不可。 ・施設へご来場の際に、便指定の乗船券へのチケット引換が必要です。 ・引換はチケット売場で行います。 ・チケットに記載に時間のみ乗船可能です。 ・記載時間は出航時間ですので、10分前に乗船場までお越しください。 ・座席に限りがある為、早めに引換えをおすすめします。 ・満席の場合は乗船不可。 ・電話予約不可。 ・荒天時運休。",
+      "参考料金": "通常料金 : 1,800円"
+    },
+    "price": "1,800円",
+    "benefit": "",
+    "holiday": "年末年始(12月28日～1月3日)",
+    "hours": "10:00～16:30(最終便発)",
+    "access": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20)\n                  大阪ビジネスパーク駅(N21) 天満橋駅(T22)、京阪 天満橋駅",
+    "notes": "・子ども(中学生以下)のみの利用不可。 ・施設へご来場の際に、便指定の乗船券へのチケット引換が必要です。 ・引換はチケット売場で行います。 ・チケットに記載に時間のみ乗船可能です。 ・記載時間は出航時間ですので、10分前に乗船場までお越しください。 ・座席に限りがある為、早めに引換えをおすすめします。 ・満席の場合は乗船不可。 ・電話予約不可。 ・荒天時運休。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_22.jpg",
+    "image": "assets/free-22.jpg",
+    "coords": [
+      34.6895777,
+      135.5264959
+    ],
+    "locations": [
+      {
+        "name": "大阪城御座船",
+        "coords": [
+          34.6895777,
+          135.5264959
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "当日便指定券に引換え。出航10分前までに乗り場へ。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "クルーズ",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-23",
+    "kind": "free",
+    "num": "23",
+    "name": "大阪水上バス アクアライナー",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "https://suijo-bus.osaka/language/aqualiner/",
+    "fields": {
+      "アクセス": "大阪城港：Osaka Metro 大阪ビジネスパーク駅(N21)\n                  京橋駅(N22)、京阪 京橋駅 淀屋橋港:Osaka Metro\n                  淀屋橋駅(M17) 、京阪 淀屋橋駅 八軒家浜船着場：Osaka\n                  Metro　天満橋駅(T22)",
+      "営業時間": "・大阪城港10:00～16:00の間、毎時00分発 ・淀屋橋港10:20～16:20の間、毎時20分発 ・八軒家浜船着場10:30～16:30の間、毎時30分発 ※淀屋橋港および八軒家浜船着場の最終便は、大阪城港までの運行になります。",
+      "定休日": "7月25日午後便全休 1月～2月不定休 その他臨時休業日（最新の運航情報はホームページにてご確認ください）",
+      "注意事項": "・安心の指定席です。できる限りお早めに受付をお済ませください。 ・全席指定席の為、満席の場合もございます。予めご了承くださいませ。 ・施設へご来場の際に、チケットの引換が必要です。引換は受付窓口で行います。 ・チケットに記載の時間のみ入場が可能です。 ・桜シーズンは除外 ・除外日程：3月25日～4月10日ご利用になれません ・大阪城・中之島めぐり周遊コース ・大阪城港、八軒家浜船着場、淀屋橋港から可能 ・季節により出航時刻及び最終便に変動あり ・気象・海象の影響により安全上やむをえず運休する場合がございます。 ・急遽、運休（欠航）した場合でも払い戻しは致しません。",
+      "参考料金": "通常料金 : 大人2,000円 小学生1,000円"
+    },
+    "price": "大人2,000円 小学生1,000円",
+    "benefit": "",
+    "holiday": "7月25日午後便全休 1月～2月不定休 その他臨時休業日（最新の運航情報はホームページにてご確認ください）",
+    "hours": "・大阪城港10:00～16:00の間、毎時00分発 ・淀屋橋港10:20～16:20の間、毎時20分発 ・八軒家浜船着場10:30～16:30の間、毎時30分発 ※淀屋橋港および八軒家浜船着場の最終便は、大阪城港までの運行になります。",
+    "access": "大阪城港：Osaka Metro 大阪ビジネスパーク駅(N21)\n                  京橋駅(N22)、京阪 京橋駅 淀屋橋港:Osaka Metro\n                  淀屋橋駅(M17) 、京阪 淀屋橋駅 八軒家浜船着場：Osaka\n                  Metro　天満橋駅(T22)",
+    "notes": "・安心の指定席です。できる限りお早めに受付をお済ませください。 ・全席指定席の為、満席の場合もございます。予めご了承くださいませ。 ・施設へご来場の際に、チケットの引換が必要です。引換は受付窓口で行います。 ・チケットに記載の時間のみ入場が可能です。 ・桜シーズンは除外 ・除外日程：3月25日～4月10日ご利用になれません ・大阪城・中之島めぐり周遊コース ・大阪城港、八軒家浜船着場、淀屋橋港から可能 ・季節により出航時刻及び最終便に変動あり ・気象・海象の影響により安全上やむをえず運休する場合がございます。 ・急遽、運休（欠航）した場合でも払い戻しは致しません。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_23.jpg",
+    "image": "assets/free-23.jpg",
+    "coords": [
+      34.6895858,
+      135.5329992
+    ],
+    "locations": [
+      {
+        "name": "大阪水上バス アクアライナー",
+        "coords": [
+          34.6895858,
+          135.5329992
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "指定席・現地引換え。船着場は大阪城港ほか、公式時刻表を確認。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "クルーズ",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "free-24",
+    "kind": "free",
+    "num": "24",
+    "name": "よりみち Sunset Cruise(八軒家浜船着場)",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "https://suijo-bus.osaka/",
+    "fields": {
+      "アクセス": "Osaka Metro 天満橋駅(T22)、京阪 天満橋駅",
+      "営業時間": "①17:45発 ②18:15発",
+      "営業日": "9月、10月の金曜日、土曜日のみ運航",
+      "注意事項": "・のりば:八軒家船着場限定 ・所要時間約25分 ・大阪城港からはご乗船いただけません。 ・期間限定運航　9月、10月の金曜日、土曜日のみ運航 ・全席指定席の為、満席の場合もございます。予めご了承くださいませ。 ・施設へご来場の際に、チケットの引換が必要です。引換は受付窓口で行います。 ・チケットに記載の時間のみ入場が可能です。 ・安心の指定席です。できる限りお早めに受付をお済ませください。 ・当日16:30から受付開始予定 ・気象・海象の影響により安全上やむをえず運休する場合がございます。",
+      "参考料金": "通常料金 : 大人1,600円 小学生800円"
+    },
+    "price": "大人1,600円 小学生800円",
+    "benefit": "",
+    "holiday": "",
+    "hours": "①17:45発 ②18:15発",
+    "access": "Osaka Metro 天満橋駅(T22)、京阪 天満橋駅",
+    "notes": "・のりば:八軒家船着場限定 ・所要時間約25分 ・大阪城港からはご乗船いただけません。 ・期間限定運航　9月、10月の金曜日、土曜日のみ運航 ・全席指定席の為、満席の場合もございます。予めご了承くださいませ。 ・施設へご来場の際に、チケットの引換が必要です。引換は受付窓口で行います。 ・チケットに記載の時間のみ入場が可能です。 ・安心の指定席です。できる限りお早めに受付をお済ませください。 ・当日16:30から受付開始予定 ・気象・海象の影響により安全上やむをえず運休する場合がございます。",
+    "news": "",
+    "detailNotes": "9月、10月の金曜日、土曜日のみ運航",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_24.jpg",
+    "image": "assets/free-24.jpg",
+    "coords": [
+      34.6907123,
+      135.516198
+    ],
+    "locations": [
+      {
+        "name": "よりみち Sunset Cruise",
+        "coords": [
+          34.6907123,
+          135.516198
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {
+      "6": "金・土のみ運航",
+      "7": "金・土のみ運航"
+    },
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "クルーズ",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "free-25",
+    "kind": "free",
+    "num": "25",
+    "name": "大川さくらクルーズ",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "http://osakacitycruise.info/info/5036104",
+    "fields": {
+      "アクセス": "Osaka Metro 天満橋駅(T22)、京阪 天満橋駅",
+      "営業時間": "10:00～18:00までの間、10～30分間隔で出航",
+      "営業日": "2026年3月24日(火)～4月12日(日)の期間限定運航",
+      "注意事項": "・事前予約はできません。乗船日当日に直接乗り場にお越しください。 ・天候や桜の開花状況により待ち時間がかなり長くなることがあります。お時間に余裕をもってお越しください。 ・施設へご来場の際に、チケットの引換が必要です。引換は受付窓口で行います。 ・チケットに記載の時間のみ入場が可能です。船は随時出航しますので、時間指定はできません。 ・雨天時も運航しますが、荒天時は運休します。 ・天候や潮位等の影響により安全上やむをえず運休する場合がございます。 ・急遽、運休(欠航)した場合でも払い戻しは致しません。 ・屋根のないオープン船で運航します。 ・船内にお手洗いがない船もありますので、お手洗いは乗船前にお済ませください。",
+      "参考料金": "通常料金 : 大人1,500円 / こども(小学生)無料 ※大人1名につきこども(小学生)1名まで無料。 2名以上の場合はこども料金750円が必要となります。"
+    },
+    "price": "大人1,500円 / こども(小学生)無料 ※大人1名につきこども(小学生)1名まで無料。 2名以上の場合はこども料金750円が必要となります。",
+    "benefit": "",
+    "holiday": "",
+    "hours": "10:00～18:00までの間、10～30分間隔で出航",
+    "access": "Osaka Metro 天満橋駅(T22)、京阪 天満橋駅",
+    "notes": "・事前予約はできません。乗船日当日に直接乗り場にお越しください。 ・天候や桜の開花状況により待ち時間がかなり長くなることがあります。お時間に余裕をもってお越しください。 ・施設へご来場の際に、チケットの引換が必要です。引換は受付窓口で行います。 ・チケットに記載の時間のみ入場が可能です。船は随時出航しますので、時間指定はできません。 ・雨天時も運航しますが、荒天時は運休します。 ・天候や潮位等の影響により安全上やむをえず運休する場合がございます。 ・急遽、運休(欠航)した場合でも払い戻しは致しません。 ・屋根のないオープン船で運航します。 ・船内にお手洗いがない船もありますので、お手洗いは乗船前にお済ませください。",
+    "news": "",
+    "detailNotes": "2026年3月24日(火)～4月12日(日)の期間限定運航",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_25.jpg",
+    "image": "assets/free-25.jpg",
+    "coords": [
+      34.6905625,
+      135.5160838
+    ],
+    "locations": [
+      {
+        "name": "大川さくらクルーズ",
+        "coords": [
+          34.6905625,
+          135.5160838
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {
+      "6": "春季限定・期間外",
+      "7": "春季限定・期間外"
+    },
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "クルーズ",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "free-26",
+    "kind": "free",
+    "num": "26",
+    "name": "大阪歴史博物館",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "https://www.osakamushis.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 谷町四丁目駅(T23,C18)",
+      "営業時間": "9:30～17:00(最終入館16:30)",
+      "定休日": "火曜日（祝日の場合は翌日）、年末年始",
+      "注意事項": "・入場は常設展のみ。特別展は別料金。",
+      "参考料金": "通常料金 : 常設展示観覧料 大人600円"
+    },
+    "price": "常設展示観覧料 大人600円",
+    "benefit": "",
+    "holiday": "火曜日（祝日の場合は翌日）、年末年始",
+    "hours": "9:30～17:00(最終入館16:30)",
+    "access": "Osaka Metro 谷町四丁目駅(T23,C18)",
+    "notes": "・入場は常設展のみ。特別展は別料金。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_26.jpg",
+    "image": "assets/free-26.jpg",
+    "coords": [
+      34.68261409999999,
+      135.5207975
+    ],
+    "locations": [
+      {
+        "name": "大阪歴史博物館",
+        "coords": [
+          34.68261409999999,
+          135.5207975
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {
+      "6": "火曜休館"
+    },
+    "warning": "対象は常設展のみ。10/6は休館、7日の候補。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-27",
+    "kind": "free",
+    "num": "27",
+    "name": "ピースおおさか",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-osakajo",
+    "official": "http://www.peace-osaka.or.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 森ノ宮駅(C19,N20) 谷町四丁目駅(T23,C18)",
+      "営業時間": "9:30～17:00（最終入館16:30）",
+      "定休日": "月曜日、祝日の翌日（9～11月除く）、12月28日～1月4日、館内整理日（指定月の月末）",
+      "注意事項": "",
+      "参考料金": "通常料金 : 250円"
+    },
+    "price": "250円",
+    "benefit": "",
+    "holiday": "月曜日、祝日の翌日（9～11月除く）、12月28日～1月4日、館内整理日（指定月の月末）",
+    "hours": "9:30～17:00（最終入館16:30）",
+    "access": "Osaka Metro 森ノ宮駅(C19,N20) 谷町四丁目駅(T23,C18)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_27.jpg",
+    "image": "assets/free-27.jpg",
+    "coords": [
+      34.6817756,
+      135.5298798
+    ],
+    "locations": [
+      {
+        "name": "ピースおおさか",
+        "coords": [
+          34.6817756,
+          135.5298798
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-28",
+    "kind": "free",
+    "num": "28",
+    "name": "天保山大観覧車",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tempozan",
+    "official": "http://tempozan-kanransya.com/tempozan-kanransya.com/",
+    "fields": {
+      "アクセス": "Osaka Metro 大阪港駅(C11)",
+      "営業時間": "平日10:00～21:00 土日祝10:00～22:00 (最終乗車受付15分前)",
+      "定休日": "不定休(天保山マーケットプレースに準ずる)",
+      "注意事項": "",
+      "参考料金": "通常料金 : 1,000円"
+    },
+    "price": "1,000円",
+    "benefit": "",
+    "holiday": "不定休(天保山マーケットプレースに準ずる)",
+    "hours": "平日10:00～21:00 土日祝10:00～22:00 (最終乗車受付15分前)",
+    "access": "Osaka Metro 大阪港駅(C11)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_28.jpg",
+    "image": "assets/free-28.jpg",
+    "coords": [
+      34.6562686,
+      135.4309659
+    ],
+    "locations": [
+      {
+        "name": "天保山大観覧車",
+        "coords": [
+          34.6562686,
+          135.4309659
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "展望・観覧車",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "free-29",
+    "kind": "free",
+    "num": "29",
+    "name": "帆船型観光船 サンタマリア デイクルーズ",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tempozan",
+    "official": "https://suijo-bus.osaka/language/santamaria/",
+    "fields": {
+      "アクセス": "Osaka Metro 大阪港駅(C11)",
+      "営業時間": "11:00発～16:00発(毎時00分発)",
+      "定休日": "12月31日 1月12日～2月5日 その他臨時休業日",
+      "注意事項": "・気象・海象の影響により安全上やむをえず運休する場合がございます。 ・急遽、運休した場合でも払い戻しは致しません。 ・チケットカウンターでチケットと引き換える必要はございません。直接乗り場で、QRコードをご提示ください。 ・出航時間の15分前に乗り場へお越しください。",
+      "参考料金": "通常料金 : 大人1,800円 こども900円"
+    },
+    "price": "大人1,800円 こども900円",
+    "benefit": "",
+    "holiday": "12月31日 1月12日～2月5日 その他臨時休業日",
+    "hours": "11:00発～16:00発(毎時00分発)",
+    "access": "Osaka Metro 大阪港駅(C11)",
+    "notes": "・気象・海象の影響により安全上やむをえず運休する場合がございます。 ・急遽、運休した場合でも払い戻しは致しません。 ・チケットカウンターでチケットと引き換える必要はございません。直接乗り場で、QRコードをご提示ください。 ・出航時間の15分前に乗り場へお越しください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_29.jpg",
+    "image": "assets/free-29.jpg",
+    "coords": [
+      34.6549492,
+      135.4284378
+    ],
+    "locations": [
+      {
+        "name": "帆船型観光船 サンタマリア デイクルーズ",
+        "coords": [
+          34.6549492,
+          135.4284378
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "出航15分前までに直接乗り場へ。QRコード提示。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "クルーズ",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-30",
+    "kind": "free",
+    "num": "30",
+    "name": "帆船型観光船 サンタマリアトワイライトクルーズ",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tempozan",
+    "official": "https://suijo-bus.osaka/language/santamaria/",
+    "fields": {
+      "アクセス": "Osaka Metro 大阪港駅(C11)",
+      "営業時間": "期間中の土日祝のみ　但し、事前に貸切予約がある場合は運休 4月18日～8月＝18:30発 9月＝17:30発 10月＝17:15発",
+      "定休日": "",
+      "注意事項": "・期間限定運航。 ・気象・海象の影響により安全上やむをえず運休する場合がございます。 ・急遽、運休した場合でも払い戻しは致しません。 ・チケットカウンターでチケットと引き換える必要はございません。直接乗り場で、QRコードをご提示ください。 ・出航時間の15分前に乗り場へお越しください。",
+      "参考料金": "通常料金 : 大人2,300円 こども1,150円"
+    },
+    "price": "大人2,300円 こども1,150円",
+    "benefit": "",
+    "holiday": "",
+    "hours": "期間中の土日祝のみ　但し、事前に貸切予約がある場合は運休 4月18日～8月＝18:30発 9月＝17:30発 10月＝17:15発",
+    "access": "Osaka Metro 大阪港駅(C11)",
+    "notes": "・期間限定運航。 ・気象・海象の影響により安全上やむをえず運休する場合がございます。 ・急遽、運休した場合でも払い戻しは致しません。 ・チケットカウンターでチケットと引き換える必要はございません。直接乗り場で、QRコードをご提示ください。 ・出航時間の15分前に乗り場へお越しください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_30.jpg",
+    "image": "assets/free-30.jpg",
+    "coords": [
+      34.6549492,
+      135.4284378
+    ],
+    "locations": [
+      {
+        "name": "帆船型観光船 サンタマリアトワイライトクルーズ",
+        "coords": [
+          34.6549492,
+          135.4284378
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {
+      "6": "土日祝のみ運航",
+      "7": "土日祝のみ運航"
+    },
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "クルーズ",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "free-31",
+    "kind": "free",
+    "num": "31",
+    "name": "キャプテンライン",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tempozan",
+    "official": "http://www.mmjp.or.jp/Capt-Line/",
+    "fields": {
+      "アクセス": "海遊館側:Osaka Metro\n                  大阪港駅(C11)、USJ側:ユニバーサルシティポート",
+      "営業時間": "9:45～18:00",
+      "定休日": "不定休(USJ休園日及び海遊館休館日は全便運休)",
+      "注意事項": "・ご乗船の際はチケットの引換が必要です。引換は券売所窓口で行いますので、乗船列へ並ぶ前に窓口へお越しください。 ・営業時間は日によって便数・始発、最終便に変動あり。詳細は公式HPをご確認ください。",
+      "参考料金": "通常料金 : 1,700円(往復料金)"
+    },
+    "price": "1,700円(往復料金)",
+    "benefit": "",
+    "holiday": "不定休(USJ休園日及び海遊館休館日は全便運休)",
+    "hours": "9:45～18:00",
+    "access": "海遊館側:Osaka Metro\n                  大阪港駅(C11)、USJ側:ユニバーサルシティポート",
+    "notes": "・ご乗船の際はチケットの引換が必要です。引換は券売所窓口で行いますので、乗船列へ並ぶ前に窓口へお越しください。 ・営業時間は日によって便数・始発、最終便に変動あり。詳細は公式HPをご確認ください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_31.jpg",
+    "image": "assets/free-31.jpg",
+    "coords": [
+      34.6538174,
+      135.4284202
+    ],
+    "locations": [
+      {
+        "name": "キャプテンライン",
+        "coords": [
+          34.6538174,
+          135.4284202
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "乗船列へ並ぶ前に窓口で引換え。日別ダイヤを確認。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "クルーズ",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "free-32",
+    "kind": "free",
+    "num": "32",
+    "name": "レゴランド ® ・ディスカバリー・センター大阪",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tempozan",
+    "official": "https://www.legolanddiscoverycenter.com/osaka/",
+    "fields": {
+      "アクセス": "Osaka Metro 大阪港駅(C11)",
+      "営業時間": "平日:10:00～18:00(最終入場16:00) 土日祝:10:00～19:00（最終入場17:00） 大阪周遊パスで入場可能な日 【10月】1日、6～8日、13～15日、20～22日、27～29日 【11月】4～5日、10～12日、17～19日、24～26日 【12月】1～3日、8～10日、15～17日 14時以降入場可能な日 ※14:00まではパス提示で当日価格より500円OFF 【10月】2日、5日、9日、16日、19日、23日、26日、30日 【11月】2日、6日、9日、13日、16日、20日、27日、30日 【12月】4日、7日、11日、14日、18日 上記日程は、追加料金なしで入場可能 記載日以外は、当日券より500円割引にて入場可能",
+      "定休日": "不定休(天保山マーケットプレースに準ずる)",
+      "注意事項": "・大人のみ(16歳以上)または、子どものみ(15歳以下)の入場不可 ・施設公式ホームページで来場日時指定予約が必要です。 ・ご入場には予約画面の確認が必要です。大阪周遊パスと合わせて、施設公式HPで取得した【日時指定予約確認メール】をご提示下さい。 ※「事前購入済みチケット・クーポン利用事前予約」を選択し予約。 予約が無い場合、入場できません。必ず事前にご予約してください。 ・混雑時は入場制限あり。",
+      "参考料金": "当日窓口料金 : 3,300円(3歳以上)"
+    },
+    "price": "当日窓口料金 : 3,300円(3歳以上)",
+    "benefit": "",
+    "holiday": "不定休(天保山マーケットプレースに準ずる)",
+    "hours": "平日:10:00～18:00(最終入場16:00) 土日祝:10:00～19:00（最終入場17:00） 大阪周遊パスで入場可能な日 【10月】1日、6～8日、13～15日、20～22日、27～29日 【11月】4～5日、10～12日、17～19日、24～26日 【12月】1～3日、8～10日、15～17日 14時以降入場可能な日 ※14:00まではパス提示で当日価格より500円OFF 【10月】2日、5日、9日、16日、19日、23日、26日、30日 【11月】2日、6日、9日、13日、16日、20日、27日、30日 【12月】4日、7日、11日、14日、18日 上記日程は、追加料金なしで入場可能 記載日以外は、当日券より500円割引にて入場可能",
+    "access": "Osaka Metro 大阪港駅(C11)",
+    "notes": "・大人のみ(16歳以上)または、子どものみ(15歳以下)の入場不可 ・施設公式ホームページで来場日時指定予約が必要です。 ・ご入場には予約画面の確認が必要です。大阪周遊パスと合わせて、施設公式HPで取得した【日時指定予約確認メール】をご提示下さい。 ※「事前購入済みチケット・クーポン利用事前予約」を選択し予約。 予約が無い場合、入場できません。必ず事前にご予約してください。 ・混雑時は入場制限あり。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_32.jpg",
+    "image": "assets/free-32.jpg",
+    "coords": [
+      34.656179,
+      135.4302448
+    ],
+    "locations": [
+      {
+        "name": "レゴランド・ディスカバリー・センター大阪",
+        "coords": [
+          34.656179,
+          135.4302448
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "6・7日とも追加料金なしの対象日。日時予約必須。大人のみ・子どものみは入場不可。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "体験・遊び",
+    "statusDefault": "入場対象日・予約必須",
+    "extraSources": []
+  },
+  {
+    "key": "free-33",
+    "kind": "free",
+    "num": "33",
+    "name": "GLION MUSEUM",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tempozan",
+    "official": "https://glion-museum.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 大阪港駅(C11)",
+      "営業時間": "11:00～17:00",
+      "定休日": "月曜日(月曜日が祝日の場合は翌火曜日)",
+      "注意事項": "・貸し切りイベント等の兼ね合いにより臨時休館になることがございます。詳細につきましてはホームページやSNSでの確認をお願い致します。",
+      "参考料金": "通常料金 : 大人 1,300円～ 小学生以下無料"
+    },
+    "price": "大人 1,300円～ 小学生以下無料",
+    "benefit": "",
+    "holiday": "月曜日(月曜日が祝日の場合は翌火曜日)",
+    "hours": "11:00～17:00",
+    "access": "Osaka Metro 大阪港駅(C11)",
+    "notes": "・貸し切りイベント等の兼ね合いにより臨時休館になることがございます。詳細につきましてはホームページやSNSでの確認をお願い致します。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_33.jpg",
+    "image": "assets/free-33.jpg",
+    "coords": [
+      34.6516558,
+      135.436412
+    ],
+    "locations": [
+      {
+        "name": "GLION MUSEUM",
+        "coords": [
+          34.6516558,
+          135.436412
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-34",
+    "kind": "free",
+    "num": "34",
+    "name": "さきしまコスモタワー展望台",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-tempozan",
+    "official": "http://sakishima-observatory.com/",
+    "fields": {
+      "アクセス": "Osaka Metro トレードセンター前駅(P10)",
+      "営業時間": "11:00～22:00（最終入場21:30）",
+      "定休日": "月曜日（祝日の場合は翌日）",
+      "注意事項": "・1月1日は初日の出の特別営業のため使用不可 ・6月6日は特別営業のため使用不可 ・その他、展望台が指定する特別営業日はご利用いただけません。 ・詳細は施設HPをご確認ください。",
+      "参考料金": "通常料金 :1,200円"
+    },
+    "price": "1,200円",
+    "benefit": "",
+    "holiday": "月曜日（祝日の場合は翌日）",
+    "hours": "11:00～22:00（最終入場21:30）",
+    "access": "Osaka Metro トレードセンター前駅(P10)",
+    "notes": "・1月1日は初日の出の特別営業のため使用不可 ・6月6日は特別営業のため使用不可 ・その他、展望台が指定する特別営業日はご利用いただけません。 ・詳細は施設HPをご確認ください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_34.jpg",
+    "image": "assets/free-34.jpg",
+    "coords": [
+      34.6380795,
+      135.4146553
+    ],
+    "locations": [
+      {
+        "name": "さきしまコスモタワー展望台",
+        "coords": [
+          34.6380795,
+          135.4146553
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "展望・観覧車",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-35",
+    "kind": "free",
+    "num": "35",
+    "name": "咲くやこの花館",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-sonota",
+    "official": "https://www.sakuyakonohana.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 鶴見緑地駅(N26)",
+      "営業時間": "10:00～17:00(最終入館16:30)",
+      "定休日": "月曜日(休日の場合は翌平日)",
+      "注意事項": "",
+      "参考料金": "通常料金 : 500円"
+    },
+    "price": "500円",
+    "benefit": "",
+    "holiday": "月曜日(休日の場合は翌平日)",
+    "hours": "10:00～17:00(最終入館16:30)",
+    "access": "Osaka Metro 鶴見緑地駅(N26)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_35.jpg",
+    "image": "assets/free-35.jpg",
+    "coords": [
+      34.7100434,
+      135.5735714
+    ],
+    "locations": [
+      {
+        "name": "咲くやこの花館",
+        "coords": [
+          34.7100434,
+          135.5735714
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "庭園・自然",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-36",
+    "kind": "free",
+    "num": "36",
+    "name": "大阪市立自然史博物館",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-sonota",
+    "official": "https://omnh.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 長居駅(M26)",
+      "営業時間": "【3月～10月】 9:30～17:00(最終入園16:30) 【11月～2月】 9:30～16:30(最終入園16:00)",
+      "定休日": "月曜日（月曜日が祝日の場合は翌平日）、12月28日～1月4日",
+      "注意事項": "・入場は常設展のみ。特別展は別料金。 ・長居植物園にも入場可。",
+      "参考料金": "通常料金 : 【常設展】大人300円 高大生200円"
+    },
+    "price": "【常設展】大人300円 高大生200円",
+    "benefit": "",
+    "holiday": "月曜日（月曜日が祝日の場合は翌平日）、12月28日～1月4日",
+    "hours": "【3月～10月】 9:30～17:00(最終入園16:30) 【11月～2月】 9:30～16:30(最終入園16:00)",
+    "access": "Osaka Metro 長居駅(M26)",
+    "notes": "・入場は常設展のみ。特別展は別料金。 ・長居植物園にも入場可。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_36.jpg",
+    "image": "assets/free-36.jpg",
+    "coords": [
+      34.6102729,
+      135.5214394
+    ],
+    "locations": [
+      {
+        "name": "大阪市立自然史博物館",
+        "coords": [
+          34.6102729,
+          135.5214394
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "常設展のみ。長居植物園にも入場可。二重計上に注意。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-37",
+    "kind": "free",
+    "num": "37",
+    "name": "大阪市立長居植物園",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-sonota",
+    "official": "https://botanical-garden.nagai-park.jp/",
+    "fields": {
+      "アクセス": "Osaka Metro 長居駅(M26)、近鉄 針中野駅",
+      "営業時間": "【3月～10月】 9:30～17:00(最終入園16:30) 【11月～2月】 9:30～16:30(最終入園16:00)",
+      "定休日": "毎週月曜日(祝日の場合はその翌平日)年末年始(12月28日～1月4日)",
+      "注意事項": "",
+      "参考料金": "通常料金 : 大人300円 高大生200円"
+    },
+    "price": "大人300円 高大生200円",
+    "benefit": "",
+    "holiday": "毎週月曜日(祝日の場合はその翌平日)年末年始(12月28日～1月4日)",
+    "hours": "【3月～10月】 9:30～17:00(最終入園16:30) 【11月～2月】 9:30～16:30(最終入園16:00)",
+    "access": "Osaka Metro 長居駅(M26)、近鉄 針中野駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_37.jpg",
+    "image": "assets/free-37.jpg",
+    "coords": [
+      34.6123152,
+      135.5243669
+    ],
+    "locations": [
+      {
+        "name": "大阪市立長居植物園",
+        "coords": [
+          34.6123152,
+          135.5243669
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "庭園・自然",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-38",
+    "kind": "free",
+    "num": "38",
+    "name": "さかい利晶の杜",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-sonota",
+    "official": "http://www.sakai-rishonomori.com/",
+    "fields": {
+      "アクセス": "南海 堺駅",
+      "営業時間": "9:00～18:00(最終入館17:30)",
+      "定休日": "毎月第3火曜日(祝日の場合は翌日)、年末年始",
+      "注意事項": "",
+      "参考料金": "展示観覧 : 大人300円　高校生200円　中学生以下無料 立礼茶席 : 大人800円"
+    },
+    "price": "展示観覧 : 大人300円　高校生200円　中学生以下無料 立礼茶席 : 大人800円",
+    "benefit": "",
+    "holiday": "毎月第3火曜日(祝日の場合は翌日)、年末年始",
+    "hours": "9:00～18:00(最終入館17:30)",
+    "access": "南海 堺駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_38.jpg",
+    "image": "assets/free-38.jpg",
+    "coords": [
+      34.575799,
+      135.4700586
+    ],
+    "locations": [
+      {
+        "name": "さかい利晶の杜",
+        "coords": [
+          34.575799,
+          135.4700586
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "第3火曜休館。10/6（第1火曜）は定休日に該当しません。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "free-39",
+    "kind": "free",
+    "num": "39",
+    "name": "堺市博物館",
+    "url": "https://osaka-amazing-pass.com/service_free.html#area-sonota",
+    "official": "http://www.city.sakai.lg.jp/kanko/hakubutsukan/",
+    "fields": {
+      "アクセス": "南海 堺東駅",
+      "営業時間": "9:30～17:15(最終入館16:30)",
+      "定休日": "月曜日（祝・休日の場合は開館）、年末年始",
+      "注意事項": "・入場は常設展・企画展のみ ・企画展の詳細はこちらから ( https://www.city.sakai.lg.jp/kanko/hakubutsukan/ )",
+      "参考料金": "通常料金 : 一般200円 高校生、大学生100円 小中学生50円"
+    },
+    "price": "一般200円 高校生、大学生100円 小中学生50円",
+    "benefit": "",
+    "holiday": "月曜日（祝・休日の場合は開館）、年末年始",
+    "hours": "9:30～17:15(最終入館16:30)",
+    "access": "南海 堺東駅",
+    "notes": "・入場は常設展・企画展のみ ・企画展の詳細はこちらから ( https://www.city.sakai.lg.jp/kanko/hakubutsukan/ )",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_39.jpg",
+    "image": "assets/free-39.jpg",
+    "coords": [
+      34.558964,
+      135.4842782
+    ],
+    "locations": [
+      {
+        "name": "堺市博物館",
+        "coords": [
+          34.558964,
+          135.4842782
+        ],
+        "layer": "zb-0FbjJMcs"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "美術・文化",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-01",
+    "kind": "privilege",
+    "num": "01",
+    "name": "国立国際美術館",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://www.nmao.go.jp/",
+    "fields": {
+      "通常料金": "【特別展】展覧会によって異なる",
+      "特典": "特別展の入場料金を団体料金に割引",
+      "アクセス": "Osaka Metro 肥後橋駅(Y12)、京阪 渡辺橋駅",
+      "営業時間": "10:00～17:00、金曜は20:00まで (入場は閉館の30分前まで)",
+      "定休日": "月(祝の場合は翌日)、年末年始、展示替期間",
+      "注意事項": ""
+    },
+    "price": "【特別展】展覧会によって異なる",
+    "benefit": "特別展の入場料金を団体料金に割引",
+    "holiday": "月(祝の場合は翌日)、年末年始、展示替期間",
+    "hours": "10:00～17:00、金曜は20:00まで (入場は閉館の30分前まで)",
+    "access": "Osaka Metro 肥後橋駅(Y12)、京阪 渡辺橋駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_5.jpg",
+    "image": "assets/privilege-01.jpg",
+    "coords": [
+      34.691525,
+      135.4921624
+    ],
+    "locations": [
+      {
+        "name": "国立国際美術館",
+        "coords": [
+          34.691525,
+          135.4921624
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-02",
+    "kind": "privilege",
+    "num": "02",
+    "name": "梅田スカイビル 空中庭園展望台",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://www.skybldg.co.jp/observatory/",
+    "fields": {
+      "通常料金": "大人(中学生以上)2,000円、小人(4歳～小学生以下)500円",
+      "特典": "入場料10％OFF(15時以降)",
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+      "営業時間": "9:30～22:30（最終入場22:00）",
+      "定休日": "年中無休",
+      "注意事項": ""
+    },
+    "price": "大人(中学生以上)2,000円、小人(4歳～小学生以下)500円",
+    "benefit": "入場料10％OFF(15時以降)",
+    "holiday": "年中無休",
+    "hours": "9:30～22:30（最終入場22:00）",
+    "access": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_1.jpg",
+    "image": "assets/privilege-02.jpg",
+    "coords": [
+      34.7047607,
+      135.4901412
+    ],
+    "locations": [
+      {
+        "name": "梅田スカイビル 空中庭園展望台",
+        "coords": [
+          34.7047607,
+          135.4901412
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-03",
+    "kind": "privilege",
+    "num": "03",
+    "name": "大阪市内定期観光バス (OSAKA SKY VISTA・なにワンダー)",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://www.kintetsu-bus.co.jp/skyvista/",
+    "fields": {
+      "通常料金": "大人2,000円 小人1,000円",
+      "特典": "当日現金支払いのみ 大人運賃200円OFF 小人運賃100円OFF",
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+      "営業時間": "大阪駅JR高速バスターミナルから一日3便運行(南10:40発、15:40発、北13:10発)。",
+      "定休日": "無休",
+      "注意事項": "・バスを降りての観光はありません。 ・荒天時は屋根を閉めて運行の場合あり。 ・所要時間約1時間。 ・運行時刻は予告なく変更する場合あり。 ・OSAKA SKY VISTA、なにワンダーのどちらかの運行になります。"
+    },
+    "price": "大人2,000円 小人1,000円",
+    "benefit": "当日現金支払いのみ 大人運賃200円OFF 小人運賃100円OFF",
+    "holiday": "無休",
+    "hours": "大阪駅JR高速バスターミナルから一日3便運行(南10:40発、15:40発、北13:10発)。",
+    "access": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+    "notes": "・バスを降りての観光はありません。 ・荒天時は屋根を閉めて運行の場合あり。 ・所要時間約1時間。 ・運行時刻は予告なく変更する場合あり。 ・OSAKA SKY VISTA、なにワンダーのどちらかの運行になります。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_6.jpg",
+    "image": "assets/privilege-03.jpg",
+    "coords": [
+      34.7026075,
+      135.4944565
+    ],
+    "locations": [
+      {
+        "name": "大阪市内定期観光バス (OSAKA SKY VISTA・なにワンダー)",
+        "coords": [
+          34.7026075,
+          135.4944565
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-04",
+    "kind": "privilege",
+    "num": "04",
+    "name": "中之島リバークルーズ",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://www.ipponmatsu.co.jp/cruise/nakanoshima-river.html",
+    "fields": {
+      "通常料金": "おとな2,000円",
+      "特典": "乗船料金おとな500円OFF",
+      "アクセス": "Osaka Metro 肥後橋駅(Y12)、阪神 福島駅、京阪 中之島駅",
+      "営業時間": "運航日、運航ダイヤは事前に公式HPでご確認ください。",
+      "定休日": "運航日、運航ダイヤは事前に公式HPでご確認ください。",
+      "注意事項": "・当日現地販売のみ。 ・⾬天時運休 ・満席の場合、ご乗船をお断りすることもあります。"
+    },
+    "price": "おとな2,000円",
+    "benefit": "乗船料金おとな500円OFF",
+    "holiday": "運航日、運航ダイヤは事前に公式HPでご確認ください。",
+    "hours": "運航日、運航ダイヤは事前に公式HPでご確認ください。",
+    "access": "Osaka Metro 肥後橋駅(Y12)、阪神 福島駅、京阪 中之島駅",
+    "notes": "・当日現地販売のみ。 ・⾬天時運休 ・満席の場合、ご乗船をお断りすることもあります。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_36.jpg",
+    "image": "assets/privilege-04.jpg",
+    "coords": [
+      34.6934173,
+      135.4893747
+    ],
+    "locations": [
+      {
+        "name": "中之島リバークルーズ",
+        "coords": [
+          34.6934173,
+          135.4893747
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-05",
+    "kind": "privilege",
+    "num": "05",
+    "name": "うめきた温泉 蓮 Wellbeing Park",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://umekita-onsen.jp/",
+    "fields": {
+      "通常料金": "平日 3,190円、土日祝 3,740円",
+      "特典": "ベーシックプラン30％OFF 平日 2,233円、土日祝 2,618円",
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+      "営業時間": "24時間営業 ※プール、岩盤浴など施設ごとに営業時間が異なります",
+      "定休日": "年中無休",
+      "注意事項": "・施設のご利用は、12歳以上に限る。 ・刺青・タトゥーのある方のご入館はお断りしております。ただし、施設指定のカバーシールで覆える場合は利用可能。 ・12時間ご滞在いただけます。12時間を過ぎると2,970円が自動加算されます。 ・深夜帯(0:00～5:00)のご滞在には深夜料金1,100円を申し受けます。"
+    },
+    "price": "平日 3,190円、土日祝 3,740円",
+    "benefit": "ベーシックプラン30％OFF 平日 2,233円、土日祝 2,618円",
+    "holiday": "年中無休",
+    "hours": "24時間営業 ※プール、岩盤浴など施設ごとに営業時間が異なります",
+    "access": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+    "notes": "・施設のご利用は、12歳以上に限る。 ・刺青・タトゥーのある方のご入館はお断りしております。ただし、施設指定のカバーシールで覆える場合は利用可能。 ・12時間ご滞在いただけます。12時間を過ぎると2,970円が自動加算されます。 ・深夜帯(0:00～5:00)のご滞在には深夜料金1,100円を申し受けます。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_22.jpg",
+    "image": "assets/privilege-05.jpg",
+    "coords": [
+      34.7022451,
+      135.4921347
+    ],
+    "locations": [
+      {
+        "name": "うめきた温泉 蓮 Wellbeing Park",
+        "coords": [
+          34.7022451,
+          135.4921347
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-06",
+    "kind": "privilege",
+    "num": "06",
+    "name": "OSAKAたこ焼きマーケット",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://www.takoyakimarket.com/",
+    "fields": {
+      "特典": "たこ焼きを購入されたお客様にドリンク(アルコール商品含む)1杯のみ半額サービス",
+      "アクセス": "Osaka Metro 梅田駅(M16)"
+    },
+    "price": "記載なし",
+    "benefit": "たこ焼きを購入されたお客様にドリンク(アルコール商品含む)1杯のみ半額サービス",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 梅田駅(M16)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_17.jpg",
+    "image": "assets/privilege-06.jpg",
+    "coords": [
+      34.7037666,
+      135.5001033
+    ],
+    "locations": [
+      {
+        "name": "OSAKAたこ焼マーケット",
+        "coords": [
+          34.7037666,
+          135.5001033
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-07",
+    "kind": "privilege",
+    "num": "07",
+    "name": "とんかつKYK阪急32番街店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://www.tonkatu-kyk.co.jp/tonkatu/shopdetail/9/",
+    "fields": {
+      "特典": "ご飲食代10％OFF",
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急 大阪梅田駅"
+    },
+    "price": "記載なし",
+    "benefit": "ご飲食代10％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 梅田駅(M16)、阪急 大阪梅田駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_2.jpg",
+    "image": "assets/privilege-07.jpg",
+    "coords": [
+      34.70328169999999,
+      135.4991895
+    ],
+    "locations": [
+      {
+        "name": "とんかつKYK 阪急32番街店",
+        "coords": [
+          34.70328169999999,
+          135.4991895
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-08",
+    "kind": "privilege",
+    "num": "08",
+    "name": "とんかつKYK阪急三番街店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://www.tonkatu-kyk.co.jp/tonkatu/shopdetail/7/",
+    "fields": {
+      "特典": "ご飲食代10％OFF",
+      "アクセス": "阪急 大阪梅田駅"
+    },
+    "price": "記載なし",
+    "benefit": "ご飲食代10％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "阪急 大阪梅田駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_5.jpg",
+    "image": "assets/privilege-08.jpg",
+    "coords": [
+      34.70446740000001,
+      135.4988024
+    ],
+    "locations": [
+      {
+        "name": "とんかつKYK 阪急三番街店",
+        "coords": [
+          34.70446740000001,
+          135.4988024
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-09",
+    "kind": "privilege",
+    "num": "09",
+    "name": "梅仙堂",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "http://baisendo-fit.co.jp/",
+    "fields": {
+      "特典": "合計金額から10％OFF",
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急 大阪梅田駅"
+    },
+    "price": "記載なし",
+    "benefit": "合計金額から10％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 梅田駅(M16)、阪急 大阪梅田駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_9.jpg",
+    "image": "assets/privilege-09.jpg",
+    "coords": [
+      34.70536070000001,
+      135.4966569
+    ],
+    "locations": [
+      {
+        "name": "梅仙堂",
+        "coords": [
+          34.70536070000001,
+          135.4966569
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-10",
+    "kind": "privilege",
+    "num": "10",
+    "name": "大起水産回転寿司（梅田・中之島）",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://sushi.daiki-suisan.co.jp/shop/",
+    "fields": {
+      "店舗": "ホワイティ梅田店",
+      "特典": "飲食代10％OFF (大阪周遊パス提示必要)",
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅"
+    },
+    "price": "記載なし",
+    "benefit": "飲食代10％OFF (大阪周遊パス提示必要)",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "ホワイティ梅田店",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_8.jpg",
+    "image": "assets/privilege-10.jpg",
+    "coords": [
+      34.7020904,
+      135.5012528
+    ],
+    "locations": [
+      {
+        "name": "大起水産回転寿司 ホワイティうめだ店",
+        "coords": [
+          34.7020904,
+          135.5012528
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-11",
+    "kind": "privilege",
+    "num": "11",
+    "name": "タイムアウトマーケット大阪",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://www.timeout.jp/time-out-market-osaka/ja",
+    "fields": {
+      "特典": "「タイムアウトバー」で販売しているドリンク半額 ※1回の提示につき、1商品のみ利用可能。 ※ボトル商品は対象外。",
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅"
+    },
+    "price": "記載なし",
+    "benefit": "「タイムアウトバー」で販売しているドリンク半額 ※1回の提示につき、1商品のみ利用可能。 ※ボトル商品は対象外。",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_38.jpg",
+    "image": "assets/privilege-11.jpg",
+    "coords": [
+      34.7022365,
+      135.4923831
+    ],
+    "locations": [
+      {
+        "name": "タイムアウトマーケット大阪",
+        "coords": [
+          34.7022365,
+          135.4923831
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-12",
+    "kind": "privilege",
+    "num": "12",
+    "name": "ゴジラ・ストア Umeda(TOHO entertainment STORE NU茶屋町7階)",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kita",
+    "official": "https://nu-chayamachi.com/shop/godzillastore/",
+    "fields": {
+      "特典": "ノベルティプレゼント",
+      "アクセス": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅"
+    },
+    "price": "記載なし",
+    "benefit": "ノベルティプレゼント",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 梅田駅(M16)、阪急・阪神 大阪梅田駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "梅田・中之島",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_34.jpg",
+    "image": "assets/privilege-12.jpg",
+    "coords": [
+      34.7071032,
+      135.4989768
+    ],
+    "locations": [
+      {
+        "name": "ゴジラ・ストア Umeda",
+        "coords": [
+          34.7071032,
+          135.4989768
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-13",
+    "kind": "privilege",
+    "num": "13",
+    "name": "忍者トリックハウス(エディオンなんば本店)",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://namba.edion.com/floor/8f/",
+    "fields": {
+      "通常料金": "1,000円",
+      "特典": "通常料金1,000円⇒500円",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅",
+      "営業時間": "10:30～21:00(最終入場20:00)",
+      "定休日": "不定休(エディオンなんば本店に準じる)",
+      "注意事項": ""
+    },
+    "price": "1,000円",
+    "benefit": "通常料金1,000円⇒500円",
+    "holiday": "不定休(エディオンなんば本店に準じる)",
+    "hours": "10:30～21:00(最終入場20:00)",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_7.jpg",
+    "image": "assets/privilege-13.jpg",
+    "coords": [
+      34.6654848,
+      135.5019017
+    ],
+    "locations": [
+      {
+        "name": "忍者トリックハウス（エディオンなんば本店）",
+        "coords": [
+          34.6654848,
+          135.5019017
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "周遊パスでは500円。無料入場ではありません。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-14",
+    "kind": "privilege",
+    "num": "14",
+    "name": "ドン・キホーテ道頓堀店 大観覧車えびすタワー",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "http://www.donki.com/kanransha/?&pre=sv",
+    "fields": {
+      "通常料金": "1,000円",
+      "特典": "100円OFF",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅",
+      "営業時間": "11:00～22:00(最終搭乗21:30)",
+      "定休日": "無休(※天気予報・状況、緊急メンテナンスにより休業する場合もあります。)",
+      "注意事項": "・荒天時運休。 ・法令により18歳未満の方は22時までの利用。18歳以上の方が同伴していても利用不可。年齢確認のため、パスポート等の身分証明書の提示が必要な場合あり。"
+    },
+    "price": "1,000円",
+    "benefit": "100円OFF",
+    "holiday": "無休(※天気予報・状況、緊急メンテナンスにより休業する場合もあります。)",
+    "hours": "11:00～22:00(最終搭乗21:30)",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅",
+    "notes": "・荒天時運休。 ・法令により18歳未満の方は22時までの利用。18歳以上の方が同伴していても利用不可。年齢確認のため、パスポート等の身分証明書の提示が必要な場合あり。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_8.jpg",
+    "image": "assets/privilege-14.jpg",
+    "coords": [
+      34.66924069999999,
+      135.5027407
+    ],
+    "locations": [
+      {
+        "name": "ドン・キホーテ道頓堀店 大観覧車えびすタワー",
+        "coords": [
+          34.66924069999999,
+          135.5027407
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-15",
+    "kind": "privilege",
+    "num": "15",
+    "name": "THE SUMO HALL 日楽座 OSAKA",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://hirakuza.net/sumohall/",
+    "fields": {
+      "通常料金": "12,500円（こども9,000円）～",
+      "特典": "ノベルティ1点進呈(チケットを事前にお買い求めいただき、当日入場の際に大阪周遊パス提示)",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅",
+      "営業時間": "17:00～19:00 ※一部日程で20:00開始の2nd公演あり ※公演時間は、お食事・相撲ショー・記念撮影を含み約120分",
+      "定休日": "不定休",
+      "注意事項": "・すべての公演チケットに、「日楽座弁当」、「日楽座こども弁当」または「日楽座スナックバッグ」と1ドリンク付き。 ・こどもは3歳以上12歳以下（「日楽座こども弁当」となります。） ・高級弁当(＋4,000円)、ハラール弁当(＋2,000円)、ヴィーガン弁当(＋2,000円)※全て税込価格 ・お弁当のご提供は3日前の10時のお申込みまで。それ以降は「日楽座スナックバッグ」のみのご提供となります。 ・「日楽座スナックバッグ」は公演日当日の15時まで受け付けています。"
+    },
+    "price": "12,500円（こども9,000円）～",
+    "benefit": "ノベルティ1点進呈(チケットを事前にお買い求めいただき、当日入場の際に大阪周遊パス提示)",
+    "holiday": "不定休",
+    "hours": "17:00～19:00 ※一部日程で20:00開始の2nd公演あり ※公演時間は、お食事・相撲ショー・記念撮影を含み約120分",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅",
+    "notes": "・すべての公演チケットに、「日楽座弁当」、「日楽座こども弁当」または「日楽座スナックバッグ」と1ドリンク付き。 ・こどもは3歳以上12歳以下（「日楽座こども弁当」となります。） ・高級弁当(＋4,000円)、ハラール弁当(＋2,000円)、ヴィーガン弁当(＋2,000円)※全て税込価格 ・お弁当のご提供は3日前の10時のお申込みまで。それ以降は「日楽座スナックバッグ」のみのご提供となります。 ・「日楽座スナックバッグ」は公演日当日の15時まで受け付けています。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_18.jpg",
+    "image": "assets/privilege-15.jpg",
+    "coords": [
+      34.6612587,
+      135.5023598
+    ],
+    "locations": [
+      {
+        "name": "THE SUMO HALL 日楽座 OSAKA",
+        "coords": [
+          34.6612587,
+          135.5023598
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-16",
+    "kind": "privilege",
+    "num": "16",
+    "name": "なんばラーメン一座",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://namba-ramen-ichiza.com/",
+    "fields": {
+      "特典": "ラーメン1杯購入でトッピングサービス",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅"
+    },
+    "price": "記載なし",
+    "benefit": "ラーメン1杯購入でトッピングサービス",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_39.jpg",
+    "image": "assets/privilege-16.jpg",
+    "coords": [
+      34.6657183,
+      135.5018701
+    ],
+    "locations": [
+      {
+        "name": "なんばラーメン一座",
+        "coords": [
+          34.6657183,
+          135.5018701
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-17",
+    "kind": "privilege",
+    "num": "17",
+    "name": "とんかつKYK 南海店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://www.tonkatu-kyk.co.jp/tonkatu/shopdetail/10/",
+    "fields": {
+      "特典": "ご飲食代10％OFF",
+      "アクセス": "南海 なんば駅"
+    },
+    "price": "記載なし",
+    "benefit": "ご飲食代10％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "南海 なんば駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_1.jpg",
+    "image": "assets/privilege-17.jpg",
+    "coords": [
+      34.6631895,
+      135.5016832
+    ],
+    "locations": [
+      {
+        "name": "とんかつKYK 南海店",
+        "coords": [
+          34.6631895,
+          135.5016832
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-18",
+    "kind": "privilege",
+    "num": "18",
+    "name": "とんかつKYKナンバ店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://www.tonkatu-kyk.co.jp/tonkatu/shopdetail/8/",
+    "fields": {
+      "特典": "ご飲食代10％OFF",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20)"
+    },
+    "price": "記載なし",
+    "benefit": "ご飲食代10％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_6.jpg",
+    "image": "assets/privilege-18.jpg",
+    "coords": [
+      34.6651402,
+      135.5017695
+    ],
+    "locations": [
+      {
+        "name": "とんかつKYK ナンバ店",
+        "coords": [
+          34.6651402,
+          135.5017695
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-19",
+    "kind": "privilege",
+    "num": "19",
+    "name": "大起水産回転寿司（なんば・道頓堀）",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://sushi.daiki-suisan.co.jp/shop/",
+    "fields": {
+      "店舗": "①なんばCITY店 ②なんばウォーク店 ③街のみなとNAMBAなんなん店 ④なんば高島屋店 ⑤道頓堀店 ⑥大丸心斎橋店",
+      "特典": "飲食代10％OFF (大阪周遊パス提示必要)",
+      "アクセス": "①～④Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅 ⑤近鉄 近鉄日本橋駅 ⑥Osaka Metro 心斎橋駅(N15,M19）"
+    },
+    "price": "記載なし",
+    "benefit": "飲食代10％OFF (大阪周遊パス提示必要)",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "①～④Osaka Metro なんば駅(Y15,S16,M20)、南海 なんば駅、阪神・近鉄 大阪難波駅 ⑤近鉄 近鉄日本橋駅 ⑥Osaka Metro 心斎橋駅(N15,M19）",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "①なんばCITY店 ②なんばウォーク店 ③街のみなとNAMBAなんなん店 ④なんば高島屋店 ⑤道頓堀店 ⑥大丸心斎橋店",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_8.jpg",
+    "image": "assets/privilege-19.jpg",
+    "coords": [
+      34.6630913,
+      135.5022626
+    ],
+    "locations": [
+      {
+        "name": "大起水産回転寿司 なんばCITY店",
+        "coords": [
+          34.6630913,
+          135.5022626
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "大起水産 街のみなと NAMBAなんなん店",
+        "coords": [
+          34.6653539,
+          135.5013584
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "大起水産回転寿司 なんばウォーク店",
+        "coords": [
+          34.6669102,
+          135.5042094
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "大起水産回転寿司 なんば高島屋店",
+        "coords": [
+          34.6642849,
+          135.5019861
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "大起水産回転寿司 道頓堀店",
+        "coords": [
+          34.6685694,
+          135.5028777
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "大起水産回転寿司 大丸心斎橋店",
+        "coords": [
+          34.673001,
+          135.5007959
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-20",
+    "kind": "privilege",
+    "num": "20",
+    "name": "鶴橋風月 道頓堀戎橋店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://fugetsu.jp/?shop=p172",
+    "fields": {
+      "特典": "一部のメニューから1品サービス(1組1枚に限り)特典のみの利用不可、店内飲食に限る。",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20) 近鉄 難波駅"
+    },
+    "price": "記載なし",
+    "benefit": "一部のメニューから1品サービス(1組1枚に限り)特典のみの利用不可、店内飲食に限る。",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20) 近鉄 難波駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_11.jpg",
+    "image": "assets/privilege-20.jpg",
+    "coords": [
+      34.6686477,
+      135.5011797
+    ],
+    "locations": [
+      {
+        "name": "鶴橋風月 戎橋店",
+        "coords": [
+          34.6686477,
+          135.5011797
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-21",
+    "kind": "privilege",
+    "num": "21",
+    "name": "エクチュア からほり「蔵」本店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "http://www.ek-chuah.co.jp/",
+    "fields": {
+      "特典": "2,000円以上のお買い物利用で粗品プレゼント",
+      "アクセス": "Osaka Metro 松屋町駅(N17)"
+    },
+    "price": "記載なし",
+    "benefit": "2,000円以上のお買い物利用で粗品プレゼント",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 松屋町駅(N17)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_12.jpg",
+    "image": "assets/privilege-21.jpg",
+    "coords": [
+      34.67516249999999,
+      135.5126712
+    ],
+    "locations": [
+      {
+        "name": "エクチュア からほり「蔵」本店",
+        "coords": [
+          34.67516249999999,
+          135.5126712
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-22",
+    "kind": "privilege",
+    "num": "22",
+    "name": "GOTO-CHI難波店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "http://www.kintetsu-rs.com/foreign/other/#other07",
+    "fields": {
+      "特典": "お会計より5％OFF",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20)"
+    },
+    "price": "記載なし",
+    "benefit": "お会計より5％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_13.jpg",
+    "image": "assets/privilege-22.jpg",
+    "coords": [
+      34.6670827,
+      135.5001147
+    ],
+    "locations": [
+      {
+        "name": "GOTO-CHI 難波店",
+        "coords": [
+          34.6670827,
+          135.5001147
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-23",
+    "kind": "privilege",
+    "num": "23",
+    "name": "江戸川 なんばウォーク店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "http://www.kintetsu-rs.com/foreign/edogawa/index.html",
+    "fields": {
+      "特典": "3,300円以上のお会計で5％OFF",
+      "アクセス": "近鉄 大阪難波駅、Osaka Metro なんば駅(Y15,S16,M20)"
+    },
+    "price": "記載なし",
+    "benefit": "3,300円以上のお会計で5％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "近鉄 大阪難波駅、Osaka Metro なんば駅(Y15,S16,M20)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_14-15.jpg",
+    "image": "assets/privilege-23.jpg",
+    "coords": [
+      34.6669735,
+      135.4999092
+    ],
+    "locations": [
+      {
+        "name": "江戸川　なんばウォーク店",
+        "coords": [
+          34.6669735,
+          135.4999092
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-24",
+    "kind": "privilege",
+    "num": "24",
+    "name": "黒毛和牛純肉焼肉 M.M.ya",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://kefy100.gorp.jp/",
+    "fields": {
+      "特典": "ディナー時に盛合せメニュー1人前以上ご注文のお客様に、大阪ビール1,150円相当1本無料 プラス　カルビ(ribs)焼肉80g1皿無料プレゼント",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20) 近鉄・阪神 大阪難波駅"
+    },
+    "price": "記載なし",
+    "benefit": "ディナー時に盛合せメニュー1人前以上ご注文のお客様に、大阪ビール1,150円相当1本無料 プラス　カルビ(ribs)焼肉80g1皿無料プレゼント",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20) 近鉄・阪神 大阪難波駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_19.jpg",
+    "image": "assets/privilege-24.jpg",
+    "coords": [
+      34.6683894,
+      135.4995182
+    ],
+    "locations": [
+      {
+        "name": "黒毛和牛純肉焼肉 M.M.ya",
+        "coords": [
+          34.6683894,
+          135.4995182
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-25",
+    "kind": "privilege",
+    "num": "25",
+    "name": "KAWAII OSAKA",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://kawaii-osaka.jp/",
+    "fields": {
+      "特典": "10％OFF (物販 ￥8000以上、レンタル1day以上のプラン)",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20)、近鉄 近鉄日本橋駅"
+    },
+    "price": "記載なし",
+    "benefit": "10％OFF (物販 ￥8000以上、レンタル1day以上のプラン)",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20)、近鉄 近鉄日本橋駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_23.jpg",
+    "image": "assets/privilege-25.jpg",
+    "coords": [
+      34.6695493,
+      135.5058307
+    ],
+    "locations": [
+      {
+        "name": "KAWAII OSAKA",
+        "coords": [
+          34.6695493,
+          135.5058307
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-26",
+    "kind": "privilege",
+    "num": "26",
+    "name": "Osaka JOINER Guide & Tour Base",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://osakajoiner.com/faq",
+    "fields": {
+      "特典": "通常ガイド料金 10％OFF",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20)",
+      "注意事項": "・予約優先。 ・予約が埋まっている場合、ご対応できない場合があります。 ・キャンセルポリシー 前日キャンセル ガイド料金50％ 当日キャンセル ガイド料金100％"
+    },
+    "price": "記載なし",
+    "benefit": "通常ガイド料金 10％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20)",
+    "notes": "・予約優先。 ・予約が埋まっている場合、ご対応できない場合があります。 ・キャンセルポリシー 前日キャンセル ガイド料金50％ 当日キャンセル ガイド料金100％",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_24.jpg",
+    "image": "assets/privilege-26.jpg",
+    "coords": [
+      34.66706769999999,
+      135.5034664
+    ],
+    "locations": [
+      {
+        "name": "Osaka JOINER Guide ＆ Tour Base",
+        "coords": [
+          34.66706769999999,
+          135.5034664
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-27",
+    "kind": "privilege",
+    "num": "27",
+    "name": "食品サンプル専門店 デザインポケット大阪本店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://www.designpocket.net/",
+    "fields": {
+      "特典": "食品サンプル制作体験を通常料金から10％OFF",
+      "アクセス": "Osaka Metro なんば駅(Y15,S16,M20) 近鉄・阪神　大阪難波駅"
+    },
+    "price": "記載なし",
+    "benefit": "食品サンプル制作体験を通常料金から10％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro なんば駅(Y15,S16,M20) 近鉄・阪神　大阪難波駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_40.jpg",
+    "image": "assets/privilege-27.jpg",
+    "coords": [
+      34.6645408,
+      135.5034111
+    ],
+    "locations": [
+      {
+        "name": "デザインポケット 大阪本店",
+        "coords": [
+          34.6645408,
+          135.5034111
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-28",
+    "kind": "privilege",
+    "num": "28",
+    "name": "ゴジラ・ストア Osaka(心斎橋PARCO 6階)",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-namba",
+    "official": "https://tohoentertainmentonline.com/content/GS/osaka/",
+    "fields": {
+      "特典": "ノベルティプレゼント",
+      "アクセス": "Osaka Metro 心斎橋駅(N15,M19）"
+    },
+    "price": "記載なし",
+    "benefit": "ノベルティプレゼント",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 心斎橋駅(N15,M19）",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "なんば・道頓堀",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_35.jpg",
+    "image": "assets/privilege-28.jpg",
+    "coords": [
+      34.6738451,
+      135.5008804
+    ],
+    "locations": [
+      {
+        "name": "ゴジラ・ストア Osaka",
+        "coords": [
+          34.6738451,
+          135.5008804
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-29",
+    "kind": "privilege",
+    "num": "29",
+    "name": "SPAWORLD HOTEL&RESORT",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tennoji",
+    "official": "http://www.spaworld.co.jp/",
+    "fields": {
+      "通常料金": "大人(12歳以上)1,500円～、小人(12歳未満)1,000円～",
+      "特典": "入館料 大人(中学生以上)200円OFF 小人(小学生以下)100円OFF",
+      "アクセス": "Osaka Metro 動物園前駅(M22,K19)、南海 新今宮駅",
+      "営業時間": "10:00～翌8:30（プール等、館内施設・店舗の営業時間は季節により異なる）",
+      "定休日": "年中無休",
+      "注意事項": "・季節やキャンペーン期間等の特別期間は割引額が変動する場合がございます。 ・メンテナンス・工事などにより閉鎖・休止・営業時間が変更となっている箇所がございます。ご利用前にホームページでご確認下さいますようお願いいたします。"
+    },
+    "price": "大人(12歳以上)1,500円～、小人(12歳未満)1,000円～",
+    "benefit": "入館料 大人(中学生以上)200円OFF 小人(小学生以下)100円OFF",
+    "holiday": "年中無休",
+    "hours": "10:00～翌8:30（プール等、館内施設・店舗の営業時間は季節により異なる）",
+    "access": "Osaka Metro 動物園前駅(M22,K19)、南海 新今宮駅",
+    "notes": "・季節やキャンペーン期間等の特別期間は割引額が変動する場合がございます。 ・メンテナンス・工事などにより閉鎖・休止・営業時間が変更となっている箇所がございます。ご利用前にホームページでご確認下さいますようお願いいたします。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_10.jpg",
+    "image": "assets/privilege-29.jpg",
+    "coords": [
+      34.6499029,
+      135.5056078
+    ],
+    "locations": [
+      {
+        "name": "SPAWORLD HOTEL&RESORT",
+        "coords": [
+          34.6499029,
+          135.5056078
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-30",
+    "kind": "privilege",
+    "num": "30",
+    "name": "ハルカス300(展望台)",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tennoji",
+    "official": "https://www.abenoharukas-300.jp/observatory/",
+    "fields": {
+      "通常料金": "大人2,200円、小人（6～14歳）900円",
+      "特典": "入場料金10％OFF(他の割引との併用不可)",
+      "アクセス": "近鉄 大阪阿部野橋駅、Osaka Metro 天王寺駅(M23,T27)",
+      "営業時間": "9:00～22:00（最終入館21:30）",
+      "定休日": "年中無休",
+      "注意事項": "・営業時間等は変更になる場合があります。詳しくは施設ホームページでご確認ください。"
+    },
+    "price": "大人2,200円、小人（6～14歳）900円",
+    "benefit": "入場料金10％OFF(他の割引との併用不可)",
+    "holiday": "年中無休",
+    "hours": "9:00～22:00（最終入館21:30）",
+    "access": "近鉄 大阪阿部野橋駅、Osaka Metro 天王寺駅(M23,T27)",
+    "notes": "・営業時間等は変更になる場合があります。詳しくは施設ホームページでご確認ください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_11.jpg",
+    "image": "assets/privilege-30.jpg",
+    "coords": [
+      34.6463062,
+      135.5133091
+    ],
+    "locations": [
+      {
+        "name": "ハルカス300（展望台）",
+        "coords": [
+          34.6463062,
+          135.5133091
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-31",
+    "kind": "privilege",
+    "num": "31",
+    "name": "あべのハルカス美術館",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tennoji",
+    "official": "https://www.aham.jp/",
+    "fields": {
+      "通常料金": "展覧会によって異なる",
+      "特典": "展覧会観覧料を団体料金に割引",
+      "アクセス": "近鉄 大阪阿部野橋駅、Osaka Metro 天王寺駅(M23,T27)",
+      "営業時間": "土日祝10:00～18:00、火～金は10:00～20：00 （最終入館は閉館の30分前）",
+      "定休日": "一部の月曜日、年末年始、展示替え期間",
+      "注意事項": "・閉館時間、休館日は変更になる場合がございます。"
+    },
+    "price": "展覧会によって異なる",
+    "benefit": "展覧会観覧料を団体料金に割引",
+    "holiday": "一部の月曜日、年末年始、展示替え期間",
+    "hours": "土日祝10:00～18:00、火～金は10:00～20：00 （最終入館は閉館の30分前）",
+    "access": "近鉄 大阪阿部野橋駅、Osaka Metro 天王寺駅(M23,T27)",
+    "notes": "・閉館時間、休館日は変更になる場合がございます。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_12.jpg",
+    "image": "assets/privilege-31.jpg",
+    "coords": [
+      34.6463189,
+      135.5132739
+    ],
+    "locations": [
+      {
+        "name": "あべのハルカス美術館",
+        "coords": [
+          34.6463189,
+          135.5132739
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-32",
+    "kind": "privilege",
+    "num": "32",
+    "name": "朝日劇場",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tennoji",
+    "official": "https://0481.jp/venue/%e6%9c%9d%e6%97%a5%e5%8a%87%e5%a0%b4/",
+    "fields": {
+      "通常料金": "2,300円",
+      "特典": "300円OFF",
+      "アクセス": "Osaka Metro 恵美須町駅(K18)、動物園前駅（M22、K19）",
+      "営業時間": "12：00～、17：30～",
+      "定休日": "不定休"
+    },
+    "price": "2,300円",
+    "benefit": "300円OFF",
+    "holiday": "不定休",
+    "hours": "12：00～、17：30～",
+    "access": "Osaka Metro 恵美須町駅(K18)、動物園前駅（M22、K19）",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_24.jpg",
+    "image": "assets/privilege-32.jpg",
+    "coords": [
+      34.6516174,
+      135.5071424
+    ],
+    "locations": [
+      {
+        "name": "朝日劇場",
+        "coords": [
+          34.6516174,
+          135.5071424
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-33",
+    "kind": "privilege",
+    "num": "33",
+    "name": "粋花KYKあべのハルカスダイニング店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tennoji",
+    "official": "https://www.tonkatu-kyk.co.jp/tonkatu/shopdetail/12/",
+    "fields": {
+      "特典": "ご飲食代10％OFF",
+      "アクセス": "近鉄 大阪阿部野橋駅 、Osaka Metro 天王寺駅(M23,T27)"
+    },
+    "price": "記載なし",
+    "benefit": "ご飲食代10％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "近鉄 大阪阿部野橋駅 、Osaka Metro 天王寺駅(M23,T27)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_3.jpg",
+    "image": "assets/privilege-33.jpg",
+    "coords": [
+      34.645848,
+      135.5134745
+    ],
+    "locations": [
+      {
+        "name": "粋花KYK あべのハルカスダイニング店",
+        "coords": [
+          34.645848,
+          135.5134745
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-34",
+    "kind": "privilege",
+    "num": "34",
+    "name": "江戸川 あべのハルカスダイニング店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tennoji",
+    "official": "http://www.kintetsu-rs.com/foreign/edogawa/index.html",
+    "fields": {
+      "特典": "3,300円以上のお会計で5％OFF",
+      "アクセス": "近鉄 大阪阿部野橋駅 、Osaka Metro 天王寺駅(M23,T27)"
+    },
+    "price": "記載なし",
+    "benefit": "3,300円以上のお会計で5％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "近鉄 大阪阿部野橋駅 、Osaka Metro 天王寺駅(M23,T27)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_16.jpg",
+    "image": "assets/privilege-34.jpg",
+    "coords": [
+      34.6459442,
+      135.5135766
+    ],
+    "locations": [
+      {
+        "name": "江戸川 あべのハルカスダイニング店",
+        "coords": [
+          34.6459442,
+          135.5135766
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-35",
+    "kind": "privilege",
+    "num": "35",
+    "name": "大起水産回転寿司（天王寺・新世界）",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tennoji",
+    "official": "https://sushi.daiki-suisan.co.jp/shop/",
+    "fields": {
+      "店舗": "①あべのキューズモール店 ②あべちか店",
+      "特典": "飲食代10％OFF (大阪周遊パス提示必要)",
+      "アクセス": "①②近鉄 大阪阿部野橋駅、Osaka Metro 天王寺駅(M23,T27)"
+    },
+    "price": "記載なし",
+    "benefit": "飲食代10％OFF (大阪周遊パス提示必要)",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "①②近鉄 大阪阿部野橋駅、Osaka Metro 天王寺駅(M23,T27)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "①あべのキューズモール店 ②あべちか店",
+    "area": "天王寺・新世界",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_8.jpg",
+    "image": "assets/privilege-35.jpg",
+    "coords": [
+      34.6446427,
+      135.5115366
+    ],
+    "locations": [
+      {
+        "name": "大起水産回転寿司 あべのキューズモール店",
+        "coords": [
+          34.6446427,
+          135.5115366
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "大起水産回転寿司 あべちか店",
+        "coords": [
+          34.6479117,
+          135.5137708
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-36",
+    "kind": "privilege",
+    "num": "36",
+    "name": "大阪城ロードトレイン・エレクトリックカー",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-osakajo",
+    "official": "https://www.osakacastlepark.jp/articles/detail.html?id=154&lang=ja",
+    "fields": {
+      "通常料金": "大人(13～64歳) \\1,000 高齢者(65歳以上) \\600 こども(4～12歳) \\600",
+      "特典": "1dayパスの割引(200円OFF)",
+      "アクセス": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20) 大阪ビジネスパーク駅(N21) 天満橋駅(T22)、京阪 天満橋駅",
+      "営業時間": "9:30～17:30",
+      "定休日": "毎月第1木曜日、第4木曜日（2、4、6、8、10、12月）",
+      "注意事項": ""
+    },
+    "price": "大人(13～64歳) \\1,000 高齢者(65歳以上) \\600 こども(4～12歳) \\600",
+    "benefit": "1dayパスの割引(200円OFF)",
+    "holiday": "毎月第1木曜日、第4木曜日（2、4、6、8、10、12月）",
+    "hours": "9:30～17:30",
+    "access": "Osaka Metro 谷町四丁目駅(T23,C18) 森ノ宮駅(C19,N20) 大阪ビジネスパーク駅(N21) 天満橋駅(T22)、京阪 天満橋駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_19.jpg",
+    "image": "assets/privilege-36.jpg",
+    "coords": [
+      34.6893399,
+      135.5268019
+    ],
+    "locations": [
+      {
+        "name": "大阪城ロードトレイン・エレクトリックカー",
+        "coords": [
+          34.6893399,
+          135.5268019
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-37",
+    "kind": "privilege",
+    "num": "37",
+    "name": "山本能楽堂",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-osakajo",
+    "official": "http://noh-theater.com/",
+    "fields": {
+      "通常料金": "初心者のための上方伝統芸能ナイト5,000円～など",
+      "特典": "「とくい能」「上方伝統芸能ナイト」チケット代金を10％割引き",
+      "アクセス": "Osaka Metro 谷町四丁目駅(T23,C18)",
+      "営業時間": "平日10:00～17:00",
+      "定休日": "不定休",
+      "注意事項": "「大阪周遊パス」をお持ちの方は、ご予約時にその旨をお伝えください。 ご来場当日に受付で大阪周遊パスの画面をご提示いただくと1公演につきお一人様の当日チケット料金を10％割引いたします。 ※公演の入場料は公式ホームページをご覧ください。 ※ご利用には事前予約が必要です。満席の場合は、ご予約をお受けできない場合がございます。"
+    },
+    "price": "初心者のための上方伝統芸能ナイト5,000円～など",
+    "benefit": "「とくい能」「上方伝統芸能ナイト」チケット代金を10％割引き",
+    "holiday": "不定休",
+    "hours": "平日10:00～17:00",
+    "access": "Osaka Metro 谷町四丁目駅(T23,C18)",
+    "notes": "「大阪周遊パス」をお持ちの方は、ご予約時にその旨をお伝えください。 ご来場当日に受付で大阪周遊パスの画面をご提示いただくと1公演につきお一人様の当日チケット料金を10％割引いたします。 ※公演の入場料は公式ホームページをご覧ください。 ※ご利用には事前予約が必要です。満席の場合は、ご予約をお受けできない場合がございます。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_9.jpg",
+    "image": "assets/privilege-37.jpg",
+    "coords": [
+      34.683942,
+      135.514986
+    ],
+    "locations": [
+      {
+        "name": "山本能楽堂",
+        "coords": [
+          34.683942,
+          135.514986
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-38",
+    "kind": "privilege",
+    "num": "38",
+    "name": "とんかつKYK京阪京橋店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-osakajo",
+    "official": "https://www.tonkatu-kyk.co.jp/tonkatu/shopdetail/6/",
+    "fields": {
+      "特典": "ご飲食代10％OFF",
+      "アクセス": "京阪 京橋駅"
+    },
+    "price": "記載なし",
+    "benefit": "ご飲食代10％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "京阪 京橋駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_4.jpg",
+    "image": "assets/privilege-38.jpg",
+    "coords": [
+      34.6972614,
+      135.5329678
+    ],
+    "locations": [
+      {
+        "name": "とんかつKYK 京阪京橋店",
+        "coords": [
+          34.6972614,
+          135.5329678
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-39",
+    "kind": "privilege",
+    "num": "39",
+    "name": "大起水産回転寿司（大阪城・本町）",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-osakajo",
+    "official": "https://sushi.daiki-suisan.co.jp/shop/",
+    "fields": {
+      "店舗": "①天満橋店 ②京橋店 ③京阪モール京橋店 ④なのにわ店",
+      "特典": "飲食代10％OFF (大阪周遊パス提示必要)",
+      "アクセス": "①Osaka Metro 天満橋駅(T22)、京阪 天満橋駅 ②③京阪 京橋駅 ④Osaka Metro 谷町四丁目駅(T23,C18)"
+    },
+    "price": "記載なし",
+    "benefit": "飲食代10％OFF (大阪周遊パス提示必要)",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "①Osaka Metro 天満橋駅(T22)、京阪 天満橋駅 ②③京阪 京橋駅 ④Osaka Metro 谷町四丁目駅(T23,C18)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "①天満橋店 ②京橋店 ③京阪モール京橋店 ④なのにわ店",
+    "area": "大阪城・本町",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_8.jpg",
+    "image": "assets/privilege-39.jpg",
+    "coords": [
+      34.690012,
+      135.5162467
+    ],
+    "locations": [
+      {
+        "name": "大起水産回転寿司 天満橋店",
+        "coords": [
+          34.690012,
+          135.5162467
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "天下の台所 大起水産 京橋店",
+        "coords": [
+          34.6976793,
+          135.5340721
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "大起水産回転寿司 京阪モール京橋店",
+        "coords": [
+          34.6974739,
+          135.5330381
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "大起水産回転寿司 なノにわ店",
+        "coords": [
+          34.6815867,
+          135.5218178
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-40",
+    "kind": "privilege",
+    "num": "40",
+    "name": "レゴランド ® ・ディスカバリー・センター大阪",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tempozan",
+    "official": "https://www.legolanddiscoverycenter.com/osaka/",
+    "fields": {
+      "当日窓口料金": "3,300円(3歳以上)",
+      "特典": "Shop10％OFF 当日価格より500円OFF",
+      "アクセス": "Osaka Metro 大阪港駅(C11)",
+      "営業時間": "平日：10:00～18:00(最終入場16:00) 土日祝：10:00～19:00（最終入場17:00）",
+      "定休日": "不定休(天保山マーケットプレースに準ずる)",
+      "注意事項": "・大人のみ（16歳以上）または、子どものみ（15歳以下）の入場不可。 ・混雑時は入場制限あり。"
+    },
+    "price": "記載なし",
+    "benefit": "Shop10％OFF 当日価格より500円OFF",
+    "holiday": "不定休(天保山マーケットプレースに準ずる)",
+    "hours": "平日：10:00～18:00(最終入場16:00) 土日祝：10:00～19:00（最終入場17:00）",
+    "access": "Osaka Metro 大阪港駅(C11)",
+    "notes": "・大人のみ（16歳以上）または、子どものみ（15歳以下）の入場不可。 ・混雑時は入場制限あり。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_4.jpg",
+    "image": "assets/privilege-40.jpg",
+    "coords": [
+      34.656179,
+      135.4302448
+    ],
+    "locations": [
+      {
+        "name": "レゴランド® ・ディスカバリー・センター大阪",
+        "coords": [
+          34.656179,
+          135.4302448
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-41",
+    "kind": "privilege",
+    "num": "41",
+    "name": "空庭温泉 OSAKA BAY TOWER",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tempozan",
+    "official": "https://solaniwa.com/",
+    "fields": {
+      "通常料金": "大人(13歳～)2,460円～3,780円、子ども(4～12歳)1,320円",
+      "特典": "入館料(消費税・入湯税別)の10％OFF(休館日、E設定日除外)",
+      "アクセス": "Osaka Metro 弁天町駅(C13)",
+      "営業時間": "11:00～23:00(最終入館22:00) 大浴場利用 22:30まで",
+      "定休日": "月に1回休館日あり",
+      "注意事項": "・各設定日、休館日、営業時間、利用規約は事前に公式HPでご確認ください。"
+    },
+    "price": "大人(13歳～)2,460円～3,780円、子ども(4～12歳)1,320円",
+    "benefit": "入館料(消費税・入湯税別)の10％OFF(休館日、E設定日除外)",
+    "holiday": "月に1回休館日あり",
+    "hours": "11:00～23:00(最終入館22:00) 大浴場利用 22:30まで",
+    "access": "Osaka Metro 弁天町駅(C13)",
+    "notes": "・各設定日、休館日、営業時間、利用規約は事前に公式HPでご確認ください。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_3.jpg",
+    "image": "assets/privilege-41.jpg",
+    "coords": [
+      34.67035789999999,
+      135.4595476
+    ],
+    "locations": [
+      {
+        "name": "空庭温泉 OSAKA BAY TOWER",
+        "coords": [
+          34.67035789999999,
+          135.4595476
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-42",
+    "kind": "privilege",
+    "num": "42",
+    "name": "がんこ天保山店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tempozan",
+    "official": "https://www.gankofood.co.jp/shop/detail/wa-tenpouzan",
+    "fields": {
+      "特典": "1枚につき、ソフトドリンク1杯サービス",
+      "アクセス": "Osaka Metro 大阪港駅(C11)"
+    },
+    "price": "記載なし",
+    "benefit": "1枚につき、ソフトドリンク1杯サービス",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 大阪港駅(C11)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_7.jpg",
+    "image": "assets/privilege-42.jpg",
+    "coords": [
+      34.6557159,
+      135.4295504
+    ],
+    "locations": [
+      {
+        "name": "がんこ天保山店",
+        "coords": [
+          34.6557159,
+          135.4295504
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-43",
+    "kind": "privilege",
+    "num": "43",
+    "name": "鶴橋風月 天保山店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-tempozan",
+    "official": "https://fugetsu.jp/",
+    "fields": {
+      "特典": "一部のメニューから1品サービス(1組1枚に限り)特典のみの利用不可、店内飲食に限る。",
+      "アクセス": "Osaka Metro 大阪港駅(C11)"
+    },
+    "price": "記載なし",
+    "benefit": "一部のメニューから1品サービス(1組1枚に限り)特典のみの利用不可、店内飲食に限る。",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro 大阪港駅(C11)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "ベイエリア",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_10.jpg",
+    "image": "assets/privilege-43.jpg",
+    "coords": [
+      34.6559232,
+      135.4297397
+    ],
+    "locations": [
+      {
+        "name": "鶴橋風月 天保山店",
+        "coords": [
+          34.6559232,
+          135.4297397
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-44",
+    "kind": "privilege",
+    "num": "44",
+    "name": "堺伝匠館",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://www.sakaidensan.jp/",
+    "fields": {
+      "通常料金": "館内見学は無料",
+      "特典": "2,000円以上お買い上げのお客様へ粗品プレゼント",
+      "アクセス": "南海 堺駅",
+      "営業時間": "10:00～17:00",
+      "定休日": "第3火曜日（祝日の場合は翌日） 年末年始（12月29日～1月3日）※その他臨時休業あり",
+      "注意事項": ""
+    },
+    "price": "館内見学は無料",
+    "benefit": "2,000円以上お買い上げのお客様へ粗品プレゼント",
+    "holiday": "第3火曜日（祝日の場合は翌日） 年末年始（12月29日～1月3日）※その他臨時休業あり",
+    "hours": "10:00～17:00",
+    "access": "南海 堺駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_13.jpg",
+    "image": "assets/privilege-44.jpg",
+    "coords": [
+      34.5828504,
+      135.4774158
+    ],
+    "locations": [
+      {
+        "name": "堺伝匠館",
+        "coords": [
+          34.5828504,
+          135.4774158
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-45",
+    "kind": "privilege",
+    "num": "45",
+    "name": "尼崎城",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://amagasaki-castle.jp/",
+    "fields": {
+      "通常料金": "一般・学生500円 小・中・高校生250円",
+      "特典": "入城料20％OFF",
+      "アクセス": "阪神 尼崎駅",
+      "営業時間": "10:00～17:00(最終入城16:30)",
+      "定休日": "月曜日（祝日の場合は営業、翌日休）、年末年始",
+      "注意事項": ""
+    },
+    "price": "一般・学生500円 小・中・高校生250円",
+    "benefit": "入城料20％OFF",
+    "holiday": "月曜日（祝日の場合は営業、翌日休）、年末年始",
+    "hours": "10:00～17:00(最終入城16:30)",
+    "access": "阪神 尼崎駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_15.jpg",
+    "image": "assets/privilege-45.jpg",
+    "coords": [
+      34.71667849999999,
+      135.4187956
+    ],
+    "locations": [
+      {
+        "name": "尼崎城",
+        "coords": [
+          34.71667849999999,
+          135.4187956
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-46",
+    "kind": "privilege",
+    "num": "46",
+    "name": "大阪市立自然史博物館",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://omnh.jp/",
+    "fields": {
+      "通常料金": "【特別展】未定",
+      "特典": "2027年3月13日～5月30日 特別展「大和川の自然（仮）」当日入館料より100円OFF",
+      "アクセス": "Osaka Metro 長居駅(M26)",
+      "営業時間": "【3月～10月】9:30～17:00(最終入館16:30) 【11月～2月】9:30～16:30(最終入館16:00)",
+      "定休日": "月曜日（月曜日が祝日の場合は翌平日）、年末年始",
+      "注意事項": ""
+    },
+    "price": "【特別展】未定",
+    "benefit": "2027年3月13日～5月30日 特別展「大和川の自然（仮）」当日入館料より100円OFF",
+    "holiday": "月曜日（月曜日が祝日の場合は翌平日）、年末年始",
+    "hours": "【3月～10月】9:30～17:00(最終入館16:30) 【11月～2月】9:30～16:30(最終入館16:00)",
+    "access": "Osaka Metro 長居駅(M26)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/free_36.jpg",
+    "image": "assets/privilege-46.jpg",
+    "coords": [
+      34.6104087,
+      135.5226625
+    ],
+    "locations": [
+      {
+        "name": "大阪市立自然史博物館",
+        "coords": [
+          34.6104087,
+          135.5226625
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {
+      "6": "特典は2027年3〜5月",
+      "7": "特典は2027年3〜5月"
+    },
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-47",
+    "kind": "privilege",
+    "num": "47",
+    "name": "ニフレル",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://www.nifrel.jp/",
+    "fields": {
+      "通常料金": "大人: 2,400円　こども（小中学生）: 1,200円　幼児（3歳以上）: 700円",
+      "特典": "ニフレル入館で缶バッジをプレゼント",
+      "アクセス": "大阪モノレール 万博記念公園駅",
+      "営業時間": "平日 10:00～18:00、土日祝 9:30～19:00 ※季節により営業時間を変更する場合がございます。",
+      "定休日": "年中無休 ※その他臨時休業あり"
+    },
+    "price": "大人: 2,400円　こども（小中学生）: 1,200円　幼児（3歳以上）: 700円",
+    "benefit": "ニフレル入館で缶バッジをプレゼント",
+    "holiday": "年中無休 ※その他臨時休業あり",
+    "hours": "平日 10:00～18:00、土日祝 9:30～19:00 ※季節により営業時間を変更する場合がございます。",
+    "access": "大阪モノレール 万博記念公園駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_21.jpg",
+    "image": "assets/privilege-47.jpg",
+    "coords": [
+      34.8063187,
+      135.5336657
+    ],
+    "locations": [
+      {
+        "name": "ニフレル",
+        "coords": [
+          34.8063187,
+          135.5336657
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "入館料が必要。通常版の交通エリア外の区間は別運賃。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-48",
+    "kind": "privilege",
+    "num": "48",
+    "name": "ノアドルフィンドーム",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://www.dolphindome.jp/",
+    "fields": {
+      "通常料金": "大人1,210円、小人770円、3歳以下無料",
+      "特典": "入場料金100円OFF",
+      "アクセス": "南海 堺駅",
+      "営業時間": "10：00～20：00",
+      "定休日": "年中無休 ※その他臨時休業あり",
+      "注意事項": "プログラム料金は割引対象となりません 動物の健康状態などで予告なく休館することがあります。"
+    },
+    "price": "大人1,210円、小人770円、3歳以下無料",
+    "benefit": "入場料金100円OFF",
+    "holiday": "年中無休 ※その他臨時休業あり",
+    "hours": "10：00～20：00",
+    "access": "南海 堺駅",
+    "notes": "プログラム料金は割引対象となりません 動物の健康状態などで予告なく休館することがあります。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_25.jpg",
+    "image": "assets/privilege-48.jpg",
+    "coords": [
+      34.5809437,
+      135.4638916
+    ],
+    "locations": [
+      {
+        "name": "ノアドルフィンドーム",
+        "coords": [
+          34.5809437,
+          135.4638916
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "掲載上の休業該当なし",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-49",
+    "kind": "privilege",
+    "num": "49",
+    "name": "スタジオココス4",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://www.studiococos4.com/index.html",
+    "fields": {
+      "特典": "30％OFF",
+      "アクセス": "Osaka Metro あびこ駅(M27)"
+    },
+    "price": "記載なし",
+    "benefit": "30％OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro あびこ駅(M27)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_20.jpg",
+    "image": "assets/privilege-49.jpg",
+    "coords": [
+      34.6003722,
+      135.5137305
+    ],
+    "locations": [
+      {
+        "name": "スタジオココス４",
+        "coords": [
+          34.6003722,
+          135.5137305
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-50",
+    "kind": "privilege",
+    "num": "50",
+    "name": "荒井はきもの店",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://geta.gonna.jp/",
+    "fields": {
+      "特典": "マイ下駄作り 通常価格から500円OFF",
+      "アクセス": "南海 住吉大社駅"
+    },
+    "price": "記載なし",
+    "benefit": "マイ下駄作り 通常価格から500円OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "南海 住吉大社駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_21.jpg",
+    "image": "assets/privilege-50.jpg",
+    "coords": [
+      34.6142076,
+      135.4904882
+    ],
+    "locations": [
+      {
+        "name": "荒井はきもの店",
+        "coords": [
+          34.6142076,
+          135.4904882
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-51",
+    "kind": "privilege",
+    "num": "51",
+    "name": "寺田園茶舗",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://teradaen.com/",
+    "fields": {
+      "特典": "日本茶飲み比べ 通常500円→300円",
+      "アクセス": "南海 住吉大社駅"
+    },
+    "price": "記載なし",
+    "benefit": "日本茶飲み比べ 通常500円→300円",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "南海 住吉大社駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_22.jpg",
+    "image": "assets/privilege-51.jpg",
+    "coords": [
+      34.6141958,
+      135.4904784
+    ],
+    "locations": [
+      {
+        "name": "寺田園茶舗",
+        "coords": [
+          34.6141958,
+          135.4904784
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-52",
+    "kind": "privilege",
+    "num": "52",
+    "name": "アジア太平洋トレードセンター(ATC)",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://www.atc-co.com/",
+    "fields": {
+      "特典": "ITM棟2階 総合案内所で「お得～ポン」（店舗特典クーポン）をプレゼント ※提供時間10:00～18:00",
+      "アクセス": "Osaka Metro トレードセンター前駅(P10)"
+    },
+    "price": "記載なし",
+    "benefit": "ITM棟2階 総合案内所で「お得～ポン」（店舗特典クーポン）をプレゼント ※提供時間10:00～18:00",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "Osaka Metro トレードセンター前駅(P10)",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_33.jpg",
+    "image": "assets/privilege-52.jpg",
+    "coords": [
+      34.63804879999999,
+      135.411274
+    ],
+    "locations": [
+      {
+        "name": "アジア太平洋トレードセンター（ＡＴＣ）",
+        "coords": [
+          34.63804879999999,
+          135.411274
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-53",
+    "kind": "privilege",
+    "num": "53",
+    "name": "EXPOCITY",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://mitsui-shopping-park.com/lalaport/expocity/",
+    "fields": {
+      "通常料金": "無料(各エンターテインメント施設は個別に料金設定あり)",
+      "特典": "2026年度スペシャルクーポンの配布 ※ららぽーとEXPOCITY 2F中央ツーリストインフォメーション/免税カウンターでスペシャルクーポンをプレゼント",
+      "アクセス": "大阪モノレール 万博記念公園駅",
+      "営業時間": "物販・サービス・館内飲食(フードコート含む) 平日10:00～20:00、土日祝10:00～21:00 エキスポキッチン(レストラン街) 平日11:00～21:00、土日祝11:00～22:00 ※一部営業時間も異なる店舗がございます。 ラストオーダーは各店舗ごとに異なります。",
+      "定休日": "不定休",
+      "注意事項": "北大阪急行と大阪モノレールの利用は別途運賃が必要。大阪周遊パスの利用可能区域外を利用される場合、別途運賃が必要。"
+    },
+    "price": "無料(各エンターテインメント施設は個別に料金設定あり)",
+    "benefit": "2026年度スペシャルクーポンの配布 ※ららぽーとEXPOCITY 2F中央ツーリストインフォメーション/免税カウンターでスペシャルクーポンをプレゼント",
+    "holiday": "不定休",
+    "hours": "物販・サービス・館内飲食(フードコート含む) 平日10:00～20:00、土日祝10:00～21:00 エキスポキッチン(レストラン街) 平日11:00～21:00、土日祝11:00～22:00 ※一部営業時間も異なる店舗がございます。 ラストオーダーは各店舗ごとに異なります。",
+    "access": "大阪モノレール 万博記念公園駅",
+    "notes": "北大阪急行と大阪モノレールの利用は別途運賃が必要。大阪周遊パスの利用可能区域外を利用される場合、別途運賃が必要。",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_facility_14.jpg",
+    "image": "assets/privilege-53.jpg",
+    "coords": [
+      34.805489,
+      135.5344665
+    ],
+    "locations": [
+      {
+        "name": "EXPOCITY",
+        "coords": [
+          34.805489,
+          135.5344665
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "特典は店舗クーポン。北大阪急行・大阪モノレールは通常版の対象外。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-54",
+    "kind": "privilege",
+    "num": "54",
+    "name": "大起水産回転寿司（その他・堺）",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-sonota",
+    "official": "https://sushi.daiki-suisan.co.jp/shop/",
+    "fields": {
+      "店舗": "①堺店　②EXPOCITY店",
+      "特典": "飲食代10％OFF (大阪周遊パス提示必要)",
+      "アクセス": "①Osaka Metro なかもず駅(M30)、南海 中百舌鳥駅 ②大阪モノレール 万博記念公園駅"
+    },
+    "price": "記載なし",
+    "benefit": "飲食代10％OFF (大阪周遊パス提示必要)",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "①Osaka Metro なかもず駅(M30)、南海 中百舌鳥駅 ②大阪モノレール 万博記念公園駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "①堺店　②EXPOCITY店",
+    "area": "その他・堺",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_8.jpg",
+    "image": "assets/privilege-54.jpg",
+    "coords": [
+      34.5586084,
+      135.5336224
+    ],
+    "locations": [
+      {
+        "name": "大起水産回転寿司 堺店",
+        "coords": [
+          34.5586084,
+          135.5336224
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "大起水産回転寿司 ららぽーとEXPOCITY店",
+        "coords": [
+          34.8061352,
+          135.535012
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-55",
+    "kind": "privilege",
+    "num": "55",
+    "name": "イモトのWiFi 関西空港駅改札横カウンター",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kix",
+    "official": "https://www.imotonowifi.jp/delivery/airport/kansai_airport/?agent=PGD",
+    "fields": {
+      "特典": "SIM/eSIM販売金額から500円OFF",
+      "アクセス": "南海　関西空港駅"
+    },
+    "price": "記載なし",
+    "benefit": "SIM/eSIM販売金額から500円OFF",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "南海　関西空港駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "関西空港",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_41.jpg",
+    "image": "assets/privilege-55.jpg",
+    "coords": [
+      34.4356958,
+      135.2436568
+    ],
+    "locations": [
+      {
+        "name": "イモトのWiFi 関西空港駅改札横カウンター",
+        "coords": [
+          34.4356958,
+          135.2436568
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "特典は利用可でも関西空港への交通費は通常版の対象外。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  },
+  {
+    "key": "privilege-56",
+    "kind": "privilege",
+    "num": "56",
+    "name": "KIX CURRENCY EXCHANGE（第1ターミナル 1階北店、3階、4階北店、第2ターミナル店）",
+    "url": "https://osaka-amazing-pass.com/service_privilege.html#area-kix",
+    "official": "",
+    "fields": {
+      "特典": "現金での日本円と外貨の両替時に優遇レート適用",
+      "アクセス": "南海　関西空港駅"
+    },
+    "price": "記載なし",
+    "benefit": "現金での日本円と外貨の両替時に優遇レート適用",
+    "holiday": "",
+    "hours": "公式ページに時刻の記載なし",
+    "access": "南海　関西空港駅",
+    "notes": "",
+    "news": "",
+    "detailNotes": "",
+    "description": "",
+    "area": "関西空港",
+    "imageSource": "https://osaka-amazing-pass.com/resource/img/privilege_shop_42.jpg",
+    "image": "assets/privilege-56.jpg",
+    "coords": [
+      34.4346187,
+      135.2445842
+    ],
+    "locations": [
+      {
+        "name": "KIX CURRENCY EXCHANGE（第1ターミナル 1階北店、3階、4階北店）",
+        "coords": [
+          34.4346187,
+          135.2445842
+        ],
+        "layer": "u1CGpFGKCu0"
+      },
+      {
+        "name": "KIX CURRENCY EXCHANGE（第2ターミナル店）",
+        "coords": [
+          34.4369355,
+          135.2312109
+        ],
+        "layer": "u1CGpFGKCu0"
+      }
+    ],
+    "closed": {},
+    "warning": "特典は利用可でも関西空港への交通費は通常版の対象外。 外部の施設案内ページは2026/10/2の確認で403。開ける周遊パス公式掲載ページを参照してください。",
+    "group": "",
+    "coordinateSource": "大阪周遊パス公式ページに埋め込まれた公開マップ",
+    "coordinateSourceUrl": "https://www.google.com/maps/d/viewer?mid=14FZxF8n3zS-wxgIGLoIoZ33ZEaZfPQg",
+    "category": "特典・飲食",
+    "statusDefault": "営業日要確認",
+    "extraSources": []
+  }
+]
