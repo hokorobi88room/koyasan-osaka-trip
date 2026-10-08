@@ -896,24 +896,54 @@
     "extraSources": [],
     "originalNum": 18,
     "day": 8,
-    "slot": "12:15–15:15（常設展）",
+    "slot": "12:45–15:45（常設展）",
     "research": "常設展に3時間＋午前に大絶滅展2時間。9:30–17時／最終16:30。特別展券で同日常設展も観覧できるため、常設300円を重ねて買わない。長居駅3号出口から約800m。",
     "source": "https://omnh.jp/guide_top/guide",
     "visitNum": 1
   },
   {
-    "key": "nintoku-mozu",
-    "originalNum": 21,
+    "key": "disney-hep",
+    "originalNum": 22,
     "day": 8,
-    "slot": "16:25–17:30",
-    "name": "仁徳天皇陵古墳・百舌鳥古墳群ビジターセンター",
+    "visitNum": 2,
+    "slot": "17:00–17:25",
+    "name": "ディズニーストア 梅田HEP FIVE店",
     "coords": [
-      34.559985,
-      135.486209
+      34.7034,
+      135.5005
     ],
-    "image": "https://www.sakai-tcb.or.jp/uploads/b7552435b14a4cdd2a208e42e1462224.jpg",
-    "source": "https://www.sakai-tcb.or.jp/spot/detail/126",
-    "research": "16:25–17:00は正面の拝所・外側の短い散策、17:00–17:30は隣の無料ビジターセンター。陵内は非公開。地上から鍵穴形の全体像を見ることはできないため、センターの8K空撮映像で補う（上映待ち・最終上映時刻は未確認）。センターは9–18時、JR百舌鳥駅から西へ350m。外周2.85kmの一周は今回含めない。地図の所在地は公式掲載のビジターセンターで、拝所はその西隣。両方無料。",
-    "visitNum": 2
+    "source": "https://www.disney.co.jp/store/storeinfo/175",
+    "research": "HEP FIVE 4階。11–21時。店内はミッキーが監督を務める映画の撮影所がテーマ。名刺の有無・配布条件はキャストに確認。",
+    "image": ""
+  },
+  {
+    "key": "disney-lucua",
+    "originalNum": 23,
+    "day": 8,
+    "visitNum": 3,
+    "slot": "17:40–18:05",
+    "name": "ディズニーストア ルクア大阪店",
+    "coords": [
+      34.7031,
+      135.4954
+    ],
+    "source": "https://www.disney.co.jp/store/storeinfo/257",
+    "research": "ルクア イーレ5階。10:30–20:30。白を基調としたプリンセスのお城・バラのモチーフ。名刺の有無・配布条件はキャストに確認。",
+    "image": ""
+  },
+  {
+    "key": "tsutaya-umeda",
+    "originalNum": 24,
+    "day": 8,
+    "visitNum": 4,
+    "slot": "18:05–18:25",
+    "name": "梅田 蔦屋書店",
+    "coords": [
+      34.7031,
+      135.4954
+    ],
+    "source": "https://www.lucua.jp/shopguide/id472.html",
+    "research": "ルクア イーレ9階。8:30–21時。自然史・進化、空海・仏教、車・写真の棚を探す。特定の本の在庫は店頭確認。",
+    "image": ""
   }
 ]
